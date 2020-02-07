@@ -1,0 +1,69 @@
+---
+layout: page
+type: home
+---
+<!-- -------------------------------------------- -->
+<!-- About Section -->
+<!-- -------------------------------------------- -->
+<div class="row" id="about">
+  <div class="col-xs-12 col-md-8">
+    <div class="border-bottom">
+      <h1 class="post-title display-5">Welcome to {{ site.lab.full_name }}</h1>
+      <div class="post-content">
+        <p>{% include about.md %}</p>
+      </div>
+      <br>
+    </div>
+  </div>
+
+  <div class="col-xs-12 col-md-4 portrait">
+    <img class="portrait-img" src="{{ site.url }}{{ site.baseurl }}/assets/img/logo.png" alt="Responsive image">
+    <div class="bg-light" id="news">
+      <center><h1><small>News</small></h1></center>
+      <br>
+
+      {% for news in site.data.news %}
+      {% if news.link %}
+      <a href="{{ news.link }}" target="_blank">
+      {% else %}
+      <a href="#">
+      {% endif %}
+        <div class="news-item">
+          <small class="text-secondary">[ {{ news.date }} ]</small><br>
+          {{ news.title }}
+        </div>
+      </a>
+      {% endfor %}
+
+    </div>
+    <br>
+  </div>
+
+</div>
+
+<!-- -------------------------------------------- -->
+<!-- Project Section -->
+<!-- -------------------------------------------- -->
+<!-- <section class="border-top" id="projects"></section>
+<div class="row">
+  <div class="col-xs-12 col-md-4 portrait">
+    <h1 class="post-title display-4">Projects</h1>
+    <br><br>
+  </div>
+
+  <div class="col-xs-12 col-md-8">
+    {% for projects in site.categories.projects %}
+      <div class="project border-bottom">
+        <div class="project-header">
+          <a href="{{ site.baseurl }}{{ projects.url }}" target="_blank" class="project-footer">
+            <h5 class="project-title">{{ projects.title }}</h5>
+          </a>
+        </div>
+        <div class="project-content">
+          <p>{{ projects.abstract }}</p>
+        </div>
+
+      </div>
+    {% endfor %}
+  </div>
+</div> -->

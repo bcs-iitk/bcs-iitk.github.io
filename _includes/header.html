@@ -1,0 +1,65 @@
+<nav class="shadow-sm navbar navbar-expand-md navbar-light fixed-top " style="background-color: #ffffff;">
+  <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="text-transform: uppercase;">
+    <!-- <img src="/assets/img/favicon.png" width="27" height="27" class="rounded-circle d-inline-block align-top" alt=""> -->
+     {{ site.lab.short_name }}
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav  mr-auto">
+      <li class="nav-item">
+        {% if page.title %}
+          <a class="nav-link" href="{{ site.url }}">Home</a>
+        {% else %}
+          <a class="nav-link active" href="{{ site.url }}">Home</a>
+        {% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.title == "Projects"%}
+          <a class="nav-link active" href="{{ site.url }}/projects">Projects</a>
+        {% else %}
+          <a class="nav-link" href="{{ site.url }}/projects">Projects</a>
+        {% endif %}
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="{{ site.url }}/publications">Publications</a>
+      </li> -->
+      <li class="nav-item">
+        {% if page.title == "Projects"%}
+          <a class="nav-link" href="{{ site.url }}/journal-club">Journal Club</a>
+        {% else %}
+          <a class="nav-link" href="{{ site.url }}/journal-club">Journal Club</a>
+        {% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.title == "Projects"%}
+          <a class="nav-link" href="{{ site.url }}/journal-club">Journal Club</a>
+        {% else %}
+          <a class="nav-link" href="{{ site.url }}/journal-club">Journal Club</a>
+        {% endif %}
+        <a class="nav-link" href="{{ site.url }}/activities">Activities</a>
+      </li>
+      <li class="nav-item">
+        {% if page.title == "Projects"%}
+          <a class="nav-link" href="{{ site.url }}/journal-club">Journal Club</a>
+        {% else %}
+          <a class="nav-link" href="{{ site.url }}/journal-club">Journal Club</a>
+        {% endif %}
+        <a class="nav-link" href="{{ site.url }}/people">People</a>
+      </li>
+      <li class="nav-item">
+        {% if page.title == "Projects"%}
+          <a class="nav-link" href="{{ site.url }}/gallery">Gallery</a>
+        {% else %}
+          <a class="nav-link" href="{{ site.url }}/gallery">Gallery</a>
+        {% endif %}
+      </li>
+    </ul>
+
+    <!-- <a class="nav-link" href="{{ site.url }}/team">Contact</a> -->
+    <a class="nav-link" href="https://groups.google.com/forum/#!forum/bcs-iitk-mailing-list" target="_blank">Join Mailing List</a>
+
+  </div>
+</nav>
