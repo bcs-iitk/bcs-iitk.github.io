@@ -2,6 +2,21 @@
 layout: page
 title: Projects
 ---
+<div class="row justify-content-md-center">
+  <div class="col-xs-12 col-md-12 ">
+    <div class="" style="align: center">
+      <center><h1 class="post-title display-5">Projects</h1></center><br>
+      <div class="project bg-light">
+        <b>Ongoing Projects:</b> Those projects on which we are currently working.
+        <b>Projects Vacancies:</b> If you are an IITK student and interested in taking up any project under BCS @IITK
+        do check this option for available openings for projects.
+        <b>Completed Projects:</b> Projects which we have completed so far.
+        <b>BYOI Projects:</b> "Bring Your Own Idea". If you are interested in proposing your own project to carry it under BCS @IITK
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="row">
   <div class="col-xs-12 col-md-8 order-1 order-md-0">
     {% for post in site.categories.projects %}
@@ -24,30 +39,18 @@ title: Projects
   </div>
 
   <div class="col-xs-12 col-md-4  order-0 order-md-1 projects-vacancies">
-    <a href="" class="nav-link projects-type-link">
-    <div class="bg-light projects-type border-dark border">
-      <h5 class="text-decoration-none">Ongoing Projects</h5>
-    </div>
+    <a href="." class="nav-link projects-type-link" style="margin-bottom: 1rem">
+      <button type="button" class="btn btn-outline-secondary active" style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">Ongoing Projects</button>
     </a>
-    <br>
-    <a href="vacancies" class="nav-link projects-type-link">
-    <div class="bg-light projects-type">
-      <h5>Project Vacancies</h5>
-    </div>
+    <a href="vacancies" class="nav-link projects-type-link" style="margin-bottom: 1rem">
+      <button type="button" class="btn btn-outline-secondary" style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">Project Vacancies</button>
     </a>
-    <br>
-    <a href="completed" class="nav-link projects-type-link">
-    <div class="bg-light projects-type">
-      <h5>Completed Projects</h5>
-    </div>
+    <a href="completed" class="nav-link projects-type-link" style="margin-bottom: 1rem">
+      <button type="button" class="btn btn-outline-secondary" style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">Completed Projects</button>
     </a>
-    <br>
-    <a href="https://forms.gle/8vgVXV5p19xfnjtY8" target="_blank" class="nav-link projects-type-link">
-    <div class="bg-light projects-type">
-      <h5>BYOI Projects</h5>
-    </div>
+    <a href="https://forms.gle/8vgVXV5p19xfnjtY8" target="_blank" class="nav-link projects-type-link" style="margin-bottom: 1rem">
+      <button type="button" class="btn btn-outline-secondary" style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">BYOI Projects</button>
     </a>
-    <br>
   </div>
 
 </div>
