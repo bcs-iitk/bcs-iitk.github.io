@@ -4,7 +4,7 @@ title: Gaze-Tracking (Using Eye Movement and Headband)
 tags: [test, sample]
 abstract: A python program to track the gaze of the human subject during a 'Psych' experiment
 stat: vacancies
-apply-link: /
+apply-link: https://forms.gle/cRviyjswUv98SrjE8
 ---
 In this project, we are interested in developing a python package that can be used to track the gaze of the subject while conducting any Psyche experiment. There already exist several different algorithms to do this by monitoring the black portion of our eye. But that needs accurate calibration as well as restricts the movement of the head while experimenting. So, here we will try to short out that outcoming by using an additional headband and tracking both the black portion of the eye as well as the movement of the headband to get the correct position of the gaze.
 
