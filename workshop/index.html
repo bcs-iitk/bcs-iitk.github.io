@@ -1,0 +1,40 @@
+---
+layout: page
+title: Journal Club
+---
+<div class="row justify-content-md-center">
+  <div class="col-xs-12 col-md-9">
+    <div class="" style="align: center">
+      <center><h1 class="post-title display-5">Workshop</h1></center>
+      <div class="post-content">
+        <p>We provide you with lectures and videos in this certified online workshop to get you started with the process of reverse engineering the brain. The main topics which will be covered are:</p>
+	<br>
+	<ul>
+	    <li>Computational Modeling of Cognition</li>
+	    <li>Psychophysics</li>
+	    <li>Machine Learning</li>
+	</ul>
+      </div>
+      <br>
+    </div>
+  </div>
+</div>
+
+<div class="row justify-content-md-center">
+  <div class="col-xs-12 col-md-9">
+    {% for post in site.categories.workshop %}
+        <div class="project bg-light">
+          <div class="project-header border-bottom">
+            <h2 class="project-title">{{ post.title }}</h2>
+            <p class="text-secondary"><small>{{ post.date | date: "%B %-d, %Y" }}</small></p>
+          </div>
+          <div class="project-content lead">
+            <p>{{ post.abstract }}</p>
+          </div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="project-footer">
+            <button type="button" class="btn btn-outline-dark">Read More</button>
+          </a>
+        </div>
+    {% endfor %}
+  </div>
+</div>
