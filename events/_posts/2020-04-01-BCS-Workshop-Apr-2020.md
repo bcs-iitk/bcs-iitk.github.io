@@ -14,14 +14,13 @@ The complete schedule of the workshop is present [here](https://docs.google.com/
 
 The github repo containing all the resources and materials is present [here](https://github.com/bcs-iitk/BCS_Workshop_Apr_20)
 
+Some [closing remarks](https://docs.google.com/document/u/1/d/e/2PACX-1vR0ZuKm7b17BI1SxaSw4_ylHlBc3C7JCL6hI9Vzdgeq9ffO0trsxTb8AxUfFwUITzvW1fycWmOwurKi/pub)
+
 ### Organisers
-[Shashi Kant](http://shashikg.github.io/) - Lead Organiser and Mentor
-Avisha Gaur - Volunteered (Logistic)
-Shobhit Jagga - Volunteered (Logistic)
+[Shashi Kant](http://shashikg.github.io/) - Lead Organiser and Mentor <br>
+Avisha Gaur - Volunteered (Logistic) <br>
+Shobhit Jagga - Volunteered (Logistic) <br>
 
 ### Feedbacks
-![1]({{ site.url }}{{ site.baseurl }}/events/img/BCS_Workshop_20/1.jpg)
-![2]({{ site.url }}{{ site.baseurl }}/events/img/BCS_Workshop_20/2.jpg)
-
 <br>
-Some [closing remarks](https://docs.google.com/document/u/1/d/e/2PACX-1vR0ZuKm7b17BI1SxaSw4_ylHlBc3C7JCL6hI9Vzdgeq9ffO0trsxTb8AxUfFwUITzvW1fycWmOwurKi/pub) from Shashi!
+<center><img src="{{ site.url }}{{ site.baseurl }}/events/img/BCS_Workshop_20/1.jpg"></center>
