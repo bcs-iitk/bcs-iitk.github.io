@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Network Model of the Emotional Brain
-abstract: Where does emotion reside in the brain? The key question addressed here is as follows: how is emotion instantiated in the brain? Thinking about the brain basis of emotion has fluctuated between a focus on regions and a focus on circuits...
+abstract: Where does emotion reside in the brain? The key question addressed here is as follows - how is emotion instantiated in the brain? Thinking about the brain basis of emotion has fluctuated between a focus on regions and a focus on circuits
 ---
 
 **Speaker:** Avisha Gaur, Third Year UG Student Department of Electrical Engineering <br>
