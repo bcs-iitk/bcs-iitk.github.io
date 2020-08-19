@@ -1,0 +1,93 @@
+---
+layout: page
+title: People
+---
+
+<div class="row">
+  <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
+    <center><h1 class="post-title display-5" style="padding: 1rem">Present Members</h1></center>
+  </div>
+  {% for member in site.data.members %}
+  <div class="col-xs-12 col-md-3" style="padding: 0.5rem">
+    <div class="card">
+      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" alt="Card image cap">
+      <div class="card-body">
+        <center>
+        <h6 class="card-title">{{member.firstname}} {{member.lastname}} - {{member.post}}</h6>
+        <hr>
+        {% if member.mail %}<a href="mailto:{{ member.mail }}" class="social-icon-profile" target="_blank"><i class="fas fa-envelope"></i></a>{% endif %}
+        {% if member.fb %}<a href="https://www.facebook.com/{{ member.fb }}" class="social-icon-profile" target="_blank"><i class="fab fa-facebook-f"></i></a>{% endif %}
+        {% if member.github %}<a href="https://github.com/{{ member.github }}" class="social-icon-profile" target="_blank"><i class="fab fa-github-alt"></i></a>{% endif %}
+        {% if member.about %}<a href="" type="button" class="social-icon-profile" data-toggle="modal" data-target="#{{member.firstname}}Modal"><i class="fas fa-id-badge"></i></a>{% endif %}
+        <a class="social-icon-profile"></a>
+        </center>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Modal -->
+{% for member in site.data.members %}
+<div class="modal fade" id="{{member.firstname}}Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">{{member.firstname}} {{member.lastname}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="text-align: justify">
+        <center><img class="portrait-img" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" style="margin-bottom: 1.5rem"></center>
+        {{member.about}}
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+<!-- Uncomment below lines to add alums -->
+<!-- <br>
+<div class="row">
+  <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
+    <center><h1 class="post-title display-5" style="padding: 1rem">Alums</h1></center>
+  </div>
+  {% for alum in site.data.alums %}
+  <div class="col-xs-12 col-md-3" style="padding: 0.5rem">
+    <div class="card">
+      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" alt="Card image cap">
+      <div class="card-body">
+        <center>
+        <h6 class="card-title">{{alum.firstname}} {{alum.lastname}} - {{alum.post}}</h6>
+        <hr>
+        {% if alum.mail %}<a href="mailto:{{ member.mail }}" class="social-icon-profile" target="_blank"><i class="fas fa-envelope"></i></a>{% endif %}
+        {% if alum.fb %}<a href="https://www.facebook.com/{{ member.fb }}" class="social-icon-profile" target="_blank"><i class="fab fa-facebook-f"></i></a>{% endif %}
+        {% if alum.github %}<a href="https://github.com/{{ member.github }}" class="social-icon-profile" target="_blank"><i class="fab fa-github-alt"></i></a>{% endif %}
+        {% if alum.about %}<a href="" type="button" class="social-icon-profile" data-toggle="modal" data-target="#{{member.firstname}}Modal"><i class="fas fa-id-badge"></i></a>{% endif %}
+        <a class="social-icon-profile"></a>
+        </center>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{% for alum in site.data.alums %}
+<div class="modal fade" id="{{member.firstname}}Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">{{alum.firstname}} {{alum.lastname}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="text-align: justify">
+        <center><img class="portrait-img" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" style="margin-bottom: 1.5rem"></center>
+        {{alum.about}}
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %} -->
