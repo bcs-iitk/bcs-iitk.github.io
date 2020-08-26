@@ -2,7 +2,7 @@
 layout: project-ongoing
 title: Do Deep Nets Capture Color Based Emotions?
 abstract: This project aims to study the relationship between color perception and emotions in humans, and further see if the same relation can be seen when tested on a neural network through transfer learning.
-stat: ongoing
+stat: 
 mentor: Shashi Kant
 members: Shivi Gupta
 ---
