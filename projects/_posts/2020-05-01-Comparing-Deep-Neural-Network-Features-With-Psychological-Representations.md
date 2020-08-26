@@ -2,7 +2,7 @@
 layout: project-ongoing
 title: Comparing Deep Neural Network Features With Psychological Representations
 abstract: In this project, we are replicating the work of Peterson et al 2016, testing using other state-of-the-art models and testing the method with different changes to testify if the method is really adapting to psychological representations.
-stat: ongoing
+stat: 
 mentor: Shashi Kant
 members: Abhishek Jain, Aditya Jindal, Amartya Dash, Sahithi Macharla, Sanket Agrawal
 ---
