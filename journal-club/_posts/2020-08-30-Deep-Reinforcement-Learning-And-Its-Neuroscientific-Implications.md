@@ -21,4 +21,4 @@ high-level introduction to deep RL, discuss some of its initial
 applications to neuroscience, and survey its wider implications for
 research on brain and behaviour, concluding with a list of opportunities
 for next-stage research.<br>
-**Slide:** [Link](https://drive.google.com/drive/folders/1q5PXGaDKLUPu1PjknMFpLTMffAFFrNsj) <br>
+**Slide:** [Link](https://drive.google.com/file/d/14zTuzP_zoCCJSTfhb7J5ZcElREnCcP8Z/view?usp=sharing) <br>
