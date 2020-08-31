@@ -16,6 +16,6 @@ This project seeks to understand what the connectome is and develop the modern t
 
 We have modelled the Drosophila olfactory system (Mittal et al.) and have tried to show that identification of odours need not be a feature that is learnt.  
 
-Feedback:
-The project was very dynamic. We learnt a lot about how to organize a project. How to look for information regarding a specific topic. It was a fun and dynamical experience. Although we got stuck a few times, we reached out to many different people and got the appropriate help that pulled us through.
--Debaditya
+**Poster:** [Link](https://drive.google.com/file/d/1gkNEa3lUXrNFpNfktrmMHtmfQiyT2z78/view?usp=sharing)<br>
+**Documentation:** [Link](https://drive.google.com/file/d/1i8eeMYlulTMFED54xdGb4iQBO23QtErG/view?usp=sharing)<br> 
+**Github:** [Link](https://github.com/Debu922/BCS_Connectome_Project_2020)
