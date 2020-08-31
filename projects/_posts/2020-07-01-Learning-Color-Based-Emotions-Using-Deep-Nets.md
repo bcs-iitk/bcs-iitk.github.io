@@ -2,7 +2,7 @@
 layout: project-completed
 title: Learning Color-Based Emotions Using Deep-Nets
 abstract: The project involved designing an experiment to collect human-judgement data, mapping images (and words) to one out of five colors following the underlying emotion behind them. The aim was to see if popular pre-trained image-classification models such as VGG-16, ResNET, NasNET show any similarity between the images and the color images, as seen in the data collected. 
-stat: completed
+stat: 
 mentor: Shashi Kant
 members: Shivi Gupta
 

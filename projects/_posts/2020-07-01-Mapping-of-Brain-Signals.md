@@ -18,7 +18,5 @@ The goals hence, can be outlined as:
 * Study, record, process, observe, analyse, discuss and present results obtained from the research study by implementing everything learnt to organic data.
 * Compile results and derive a comprehensible conclusion.
 
-Feedback: "The project made way to develop insights into a plethora of novel concepts and ideas which sparked curiosity and nurtured the interest and fascination we had while taking up this project. Weekly meetings, assigned work and a flexibility to execute our own ideas was a highlight. We had the opportunity to work with something completely new and incorporate the professor’s ideas and vision and though, we could not reach its culmination, at the end of the day we walked out with an amazing experience." - Saksham Pruthi
-
 **Poster:** [Link](https://drive.google.com/file/d/1l5I0px-hty6E_M1MfiOJDxPQWB6S0pAi/view?usp=sharing)<br>
-**Documentation:** [Link](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020)<br>
+**Github:** [Link](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020)<br>
