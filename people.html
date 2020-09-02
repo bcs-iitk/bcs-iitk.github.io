@@ -5,15 +5,34 @@ title: People
 
 <div class="row">
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem">Present Members</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem">Our Team</h1></center>
   </div>
+  <div class="col-md-4"></div>
+  <div class="col-xs-12 col-md-4" style="padding: 0.5rem">
+    <div class="card">
+      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/shashi.jpg" alt="Card image cap">
+      <div class="card-body">
+        <center>
+        <h6 class="card-title"> Shashi Kant <br> Founder </h6>
+        <hr>
+        <a href="mailto:shashikg@iitk.ac.in" class="social-icon-profile" target="_blank"><i class="fas fa-envelope"></i></a>
+        <a href="https://www.facebook.com/shashikg.iitk" class="social-icon-profile" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://github.com/shashikg" class="social-icon-profile" target="_blank"><i class="fab fa-github-alt"></i></a>
+        <a href="" type="button" class="social-icon-profile" data-toggle="modal" data-target="#ShashiKantModal"><i class="fas fa-id-badge"></i></a>
+        <a class="social-icon-profile"></a>
+        </center>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3"></div>
   {% for member in site.data.members %}
+  {% if member.post=="Coordinator" or member.post=="Leader" %}
   <div class="col-xs-12 col-md-3" style="padding: 0.5rem">
     <div class="card">
       <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" alt="Card image cap">
       <div class="card-body">
         <center>
-        <h6 class="card-title">{{member.firstname}} {{member.lastname}} - {{member.post}}</h6>
+        <h6 class="card-title">{{member.firstname}} {{member.lastname}} <br> {{member.post}}</h6>
         <hr>
         {% if member.mail %}<a href="mailto:{{ member.mail }}" class="social-icon-profile" target="_blank"><i class="fas fa-envelope"></i></a>{% endif %}
         {% if member.fb %}<a href="https://www.facebook.com/{{ member.fb }}" class="social-icon-profile" target="_blank"><i class="fab fa-facebook-f"></i></a>{% endif %}
@@ -24,6 +43,27 @@ title: People
       </div>
     </div>
   </div>
+  {% endif %}
+  {% endfor %}
+  {% for member in site.data.members %}
+  {% if member.post=="Secretary" %}
+  <div class="col-xs-12 col-md-2" style="padding: 0.5rem">
+    <div class="card">
+      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" alt="Card image cap">
+      <div class="card-body">
+        <center>
+        <h6 class="card-title">{{member.firstname}} {{member.lastname}} <br> {{member.post}}</h6>
+        <hr>
+        {% if member.mail %}<a href="mailto:{{ member.mail }}" class="social-icon-profile" target="_blank"><i class="fas fa-envelope"></i></a>{% endif %}
+        {% if member.fb %}<a href="https://www.facebook.com/{{ member.fb }}" class="social-icon-profile" target="_blank"><i class="fab fa-facebook-f"></i></a>{% endif %}
+        {% if member.github %}<a href="https://github.com/{{ member.github }}" class="social-icon-profile" target="_blank"><i class="fab fa-github-alt"></i></a>{% endif %}
+        {% if member.about %}<a href="" type="button" class="social-icon-profile" data-toggle="modal" data-target="#{{member.firstname}}{{member.lastname}}Modal"><i class="fas fa-id-badge"></i></a>{% endif %}
+        <a class="social-icon-profile"></a>
+        </center>
+      </div>
+    </div>
+  </div>
+  {% endif %}
   {% endfor %}
 </div>
 
