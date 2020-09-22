@@ -1,9 +1,14 @@
 ---
 layout: project-completed
+
 title: Mapping of Brain Signals
+
 abstract: To understand the working, function and to some extent, the structure of the brain specifically so, by using empathy for pain to target Bilateral Anterior Insula and Anterior Cingulate Cortex using external stimuli.To study Brain activity and function using EEG data, learn how to analyse this data and explore the reason behind certain behaviour as we know it.
+
 stat: completed 
-mentor: Prof. KM Sharika, Avisha Gaur, Yatin Azad
+
+mentor: <a href="https://www.linkedin.com/in/sharika-k-m-99038b6/" target="_blank">Prof. KM Sharika</a>, Avisha Gaur, Yatin Azad
+
 members: Debaditya Bhattacharya, Muskan Goyal, Rakesh Potnuru, Rishika Saraswat, Sagarima Datta, Saksham Pruthi, Sanket Garg, Swapnil Singh
 
 
@@ -18,5 +23,5 @@ The goals hence, can be outlined as:
 * Study, record, process, observe, analyse, discuss and present results obtained from the research study by implementing everything learnt to organic data.
 * Compile results and derive a comprehensible conclusion.
 
-**Poster:** [Link](https://drive.google.com/file/d/1l5I0px-hty6E_M1MfiOJDxPQWB6S0pAi/view?usp=sharing)<br>
-**Github:** [Link](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020)<br>
+**Poster:** <a href="https://drive.google.com/file/d/16nGI1dLVEf87KN8alRsT43y7N2k2Z4GN/view?usp=sharing" target="_blank">Link</a><br>
+**Github:** <a href="https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020" target="_blank">Link</a><br>
