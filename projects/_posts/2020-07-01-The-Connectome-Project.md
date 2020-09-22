@@ -1,9 +1,14 @@
 ---
 layout: project-completed
+
 title: The Connectome Project
+
 abstract: This project seeks to understand what the connectome is and develop the modern tools required to study it. Through this project, we have looked at various the biological organization of neurons and the higher structures they form. We have looked into various neuroimaging  techniques that are involved. We also looked into the auditory system in humans; the visual system in insects, and in more detail the olfactory system in Drosophila.
+
 stat: completed 
+
 mentor: Yatin Azad
+
 members: Abhinaya, Bhuvan, Debaditya, Kunal, Vatsal
 
 ---
@@ -16,6 +21,6 @@ This project seeks to understand what the connectome is and develop the modern t
 
 We have modelled the Drosophila olfactory system (Mittal et al.) and have tried to show that identification of odours need not be a feature that is learnt.  
 
-**Poster:** [Link](https://drive.google.com/file/d/1gkNEa3lUXrNFpNfktrmMHtmfQiyT2z78/view?usp=sharing)<br>
-**Documentation:** [Link](https://drive.google.com/file/d/1i8eeMYlulTMFED54xdGb4iQBO23QtErG/view?usp=sharing)<br> 
-**Github:** [Link](https://github.com/Debu922/BCS_Connectome_Project_2020)
+**Poster:** <a href="https://drive.google.com/file/d/1HQ-YfSwQ3kpxONgEzLVL4SjhN1QYgQkL/view?usp=sharing" target="_blank">Link</a><br> 
+**Documentation:** <a href="https://drive.google.com/file/d/1T0bGCwGcjebtMfWZWfl8nURCBC4LiEX5/view?usp=sharing" target="_blank">Link</a><br> 
+**Github:** <a href="https://github.com/Debu922/BCS_Connectome_Project_2020" target="_blank">Link</a><br>

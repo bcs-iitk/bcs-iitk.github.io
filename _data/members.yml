@@ -198,6 +198,15 @@
   mail: swapsing@iitk.ac.in
   about: I am a sophomore in electrical engineering at IITK. Computational neurosciences interest me, but I am more in the exploratory phase at present. Reading books and painting are my all-time favorite leisure activities.
 
+- firstname: Umang
+  lastname: Pandey
+  post: Secretary
+  img: umang.jpg
+  github: Umang-pandey
+  fb: umang.pandey.16940
+  mail: umangp@iitk.ac.in
+  about: Hii!!! I am a third-year undergraduate in the Department of Mechanical Engineering at IIT Kanpur. The things that get me out of bed in the morning are  Cognitive Science, AI, and Quantum computing. My field of interest includes understanding how our brain functions and using that understanding to create more efficient and intuitive algorithms. I also love learning about novel ways of computing which could be used to solve problems which cannot be solved by "classical" methods. I also love watching movies, playing video games, and talking about almost anything. I am open to talking about any of the topics mentioned above so feel free to contact me (unless you are a Nigerian Prince or an MLM "company").
+
 - firstname: Varenya
   lastname: Srivastava
   post: Secretary
@@ -205,6 +214,7 @@
   github: VTG7
   fb: Varenya.Srivastava.9
   mail: varenya@iitk.ac.in
+
 
 - firstname: Yatish
   lastname: Goel

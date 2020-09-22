@@ -14,9 +14,12 @@ layout: post-page
 <div class="post border-top">
   <div class="post-content lead">
     <p>
+      {% if page.mentor and page.members %}
       <b>Mentor: </b>{{ page.mentor }} <br>
-      <b>Project Members: </b>{{ page.members }} <br><br>
+      <b>Project Members: </b>{{ page.members }} <br>
+      <br>
       <b>Abstract: </b>
+      {% endif %}
       {{ page.content }}
     </p>
   </div>

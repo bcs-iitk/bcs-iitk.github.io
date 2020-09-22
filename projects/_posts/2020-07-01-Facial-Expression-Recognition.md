@@ -1,6 +1,8 @@
 ---
-layout: project-completed-teams
+layout: project-completed
+
 title: Facial Expression Recognition
+
 abstract: Computer Vision , a well-known problem of every ML enthusiast , is leveraging the computer/machine with the ability to see and classify objects much like human beings. This project was based on exploring Computer vision to a little extent. The aim was to develop a Machine learning model which is able to classify some basic emotions (Happy , Sad, Angry, Disgust, Fear, Surprise and Contempt) using facial expressions of humans .We had chosen the CK+ dataset for implementation.
 Overall, the project had three phases : Preprocessing , Model , Evaluation.
 
@@ -8,8 +10,8 @@ stat: completed
 
 ---
 **Mentor:** Avisha Gaur <br>
-**Poster :** [Link](https://drive.google.com/file/d/1H7O5cfjr_KFuWEHIO3Y9GNRUY2tIVAUV/view?usp=sharing)<br>
-**Documentation :** [Link](https://drive.google.com/file/d/1YtrGsabDSiB5Z_X-BavO0VV0Tqe7V8PI/view?usp=sharing)
+**Poster :** <a href="https://drive.google.com/file/d/16-eVFhDVKEf58gj0dlAS7SRuXL24Nvd9/view?usp=sharing" target="_blank">Link</a><br>
+**Documentation :** <a href="https://drive.google.com/file/d/1A-Lygswq49kQd_QBPK6TUQI169W5QoRH/view?usp=sharing" target="_blank">Link</a><br>
 ### Team 1
 **Team Members:** Shashi Kumar, Aman Agarwal, Arpit Verma, Gaurav Sharma, Himanshu shetty, Anumam Yadav, and Shakshi. <br><br>
 **Abstract:**<br>

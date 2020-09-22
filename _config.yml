@@ -11,12 +11,12 @@ highlighter: rouge
 
 social-accounts:
   facebook: "bcs.iitk"
-  # twitter: "shashikg_iitk"
-  # youtube: "UCD1ELtVIfZnmIGbfVT9bHXQ"
+  twitter: "bcs_IITK"
+  youtube: "UC3vBBqgKjAfRZQ0di-Oy6yQ"
   github: "bcs-iitk"
   email: "bcs.iitk@gmail.com"
   google-group: "bcs-iitk-mailing-list"
-  # linkedin: "in/shashikg"
+  linkedin: "brain-and-cognitive-society-iit-kanpur"
 
 lab:
   full_name: "Brain & Cognitive Society"
