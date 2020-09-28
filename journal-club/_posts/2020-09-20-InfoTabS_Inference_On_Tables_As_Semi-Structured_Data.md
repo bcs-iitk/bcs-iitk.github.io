@@ -17,7 +17,7 @@ video : 55xIFjvQsL8
 
 He has also shared many of his experiences and some valuable insights for heading into research as a career option.<br>
 
-**Slide:** [Link]() <br>
+**Slide:** [Link](https://drive.google.com/file/d/1bvzZSB9BrHcEV0idbWQN_oo45o1zfdLg/view?usp=sharing) <br>
 **Video:** [Youtube](https://www.youtube.com/watch?v=55xIFjvQsL8&feature=youtu.be) <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55xIFjvQsL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Connect with the Speaker on -**
