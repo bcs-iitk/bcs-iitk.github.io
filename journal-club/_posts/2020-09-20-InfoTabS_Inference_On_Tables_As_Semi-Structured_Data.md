@@ -5,7 +5,6 @@ title: InfoTabS - Inference on Tables as Semi-Structured Data
 
 abstract: Understanding ubiquitous semi-structured tabulated data requires not only comprehending the meaning of text fragments, but also implicit relationships between them. We argue that such data can prove as a testing ground for understanding how we reason about information.
 
-video : 55xIFjvQsL8
 ---
 
 **Speaker:** <a href="https://vgupta123.github.io/" target="_blank">Vivek Gupta</a>, Y11 Dual-Degree CSE, 1st Co-ordinator of SIGML, Currently PhD student at School of Computiong, University of Utah.<br>

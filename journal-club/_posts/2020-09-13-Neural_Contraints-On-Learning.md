@@ -5,7 +5,6 @@ title: Neural Constraints on Learning
 
 abstract: As some behaviours are easier to learn than others, we asked if some neural activity patterns are easier to generate than others 
 
-video: UC3vBBqgKjAfRZQ0di-Oy6yQ
 ---
 **Speaker:** <a href="https://www.janelia.org/people/amrita-singh" target="_blank">Amrita Singh</a>, Y12 BSBE, Currently PhD student at Svoboda Lab, HHMI Janelia <br>
 **Title:** Neural Constraints on Learning <br>
