@@ -17,9 +17,7 @@ She has been a research intern and a student researcher on the Google Brain Team
 Details are as follows:<br>
 Date : 04-10-2020 (this Sunday)<br>
 Time : 6:30 PM <br>
-Join with zoom : <a href="https://zoom.us/j/99123323811?pwd=L1ZSVDFOZEl4WGhxeXVrYnQybkFPZz09"> Click Here </a><br>
-Passcode (if asked): bcs <br>
-Add it to your calender: <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MGpxcG5nY2ptN3Q4NDNob2JobDNwaGpqYTAgYmNzLmlpdGtAbQ&tmsrc=bcs.iitk%40gmail.com"> Click here </a>
+
 
 <!--**Slide:** [Link](https://drive.google.com/file/d/1bvzZSB9BrHcEV0idbWQN_oo45o1zfdLg/view?usp=sharing) <br>
 **Video:** [Youtube](https://www.youtube.com/watch?v=55xIFjvQsL8&feature=youtu.be) <br>
