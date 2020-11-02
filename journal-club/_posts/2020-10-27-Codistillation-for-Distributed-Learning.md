@@ -9,10 +9,6 @@ abstract: This work contributes to a better understanding of codistillation and 
 
 **Speaker:** <a href="https://shagunsodhani.com/" target="_blank">Shagun Sodhani</a>, Research Engineer at Facebook AI Research, Masters in Artificial Intelligence (Université de Montréal), Btech in Computer Science and Engineering (IIT Roorkee). <br>
 
-<!--**Type:** Own PhD Research<br> -->
-**Date**: 1st Nov, 2020<br>
-**Time**: 6:30pm (IST) onwards <br>
-(Contact us for the details of the talk)<br>
 
 ##### Part 1: Research talk (25min)
 
@@ -25,6 +21,5 @@ abstract: This work contributes to a better understanding of codistillation and 
 **Bio**: His research interest is in lifelong reinforcement learning -- training AI systems that can interact with and learn from the physical world and consistently improve as they do so without forgetting the previous knowledge. Previously, he was a graduate student at MILA (advised by Dr Jian Tang and Dr Yoshua Bengio)<br>
 
 <!--**Slide:** [Link](https://drive.google.com/file/d/1bvzZSB9BrHcEV0idbWQN_oo45o1zfdLg/view?usp=sharing) <br>-->
-<!--**Video:** [Youtube](https://www.youtube.com/watch?v=pBt0S221QRA&feature=youtu.be) <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pBt0S221QRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-
+**Video:** [Youtube](https://www.youtube.com/watch?v=pBt0S221QRA&feature=youtu.be) <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-e1ncUd1R9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
