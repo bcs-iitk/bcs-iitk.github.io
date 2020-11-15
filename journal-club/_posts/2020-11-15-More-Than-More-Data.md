@@ -10,7 +10,7 @@ abstract: A theoretical and empirical evidence that data augmentation alone is m
 **Title:** More Than More Data - Insights from data augmentation for deep learning and computational neuroscience
 
 **Abstract:**<br>
-Despite its popularity, data augmentation has been heavily understudied in machine learning, often looked down as a way to simply create a few more data points. However, applied on natural images, data augmentation implements perceptually plausible transformations, that is they reflect the transformations we see in our visual world. Furthermore, the higher visual cortex robustly represents objects under these transformations. <\br>
+Despite its popularity, data augmentation has been heavily understudied in machine learning, often looked down as a way to simply create a few more data points. However, applied on natural images, data augmentation implements perceptually plausible transformations, that is they reflect the transformations we see in our visual world. Furthermore, the higher visual cortex robustly represents objects under these transformations. <br>
 In this talk, I will present theoretical and empirical evidence that data augmentation alone is more effective than commonly used explicit regularisation techniques, and how it can be used to incorporate insights from computational neuroscience as new learning objectives that yield better performance and more robust visual representations.
 
 <!--**Slide:** [Link](https://drive.google.com/file/d/1bvzZSB9BrHcEV0idbWQN_oo45o1zfdLg/view?usp=sharing) <br>-->
