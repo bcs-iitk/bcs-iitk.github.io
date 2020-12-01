@@ -11,7 +11,7 @@ The lecture was divided into 3 parts of approx. 30 mins each. The key speakers w
 * <b>Cognitive Psychology</b> - Ayushi Chaudhary<br>
 	<t>Slides - <a href="https://drive.google.com/file/d/18XqrD4VllGoPd0LdUmCBuqPKpGgx2OZp/view?usp=sharing" target="_blank">pptx</a>, <a href="https://drive.google.com/file/d/10XthCx4dvWEPZDk4dpf8_kBxpv3sc601/view?usp=sharing" target="_blank">pdf</a>
 * <b>Neuroscience</b> - Debaditya Bhattacharya & Aditya Prakash<br>
-	<t>Slides - <a href="https://docs.google.com/forms/d/e/1FAIpQLScI-uTKtgBSwoG_9QJ-JEUqGjvDQuXfCPNyxIQRo96yZ3ijag/viewform" target="_blank">pptx (open this preferably)</a>, <a href="https://drive.google.com/file/d/1ml0zqf2RMN0MVyC2fOQOlU6nnTvWLZ4V/view?usp=sharing" target="_blank">pdf</a>
+	<t>Slides - <a href="https://docs.google.com/presentation/d/1qrm-tzi9z-gYrh5ColFe7Yf4GLrssplaxDIDWUvdF2g/edit?usp=sharing" target="_blank">pptx (open this preferably)</a>, <a href="https://drive.google.com/file/d/1ml0zqf2RMN0MVyC2fOQOlU6nnTvWLZ4V/view?usp=sharing" target="_blank">pdf</a>
 * <b>Machine Learning & AI</b> - Mohit Kulkarni<br>
 	<t>Slides - <a href="https://drive.google.com/file/d/1UuaDunzAZFsq3fwIelRkn9qs47b__c6S/view?usp=sharing" target="_blank">pptx</a>, <a href="https://drive.google.com/file/d/1Goh8LB88wO8MQkvzKyy8BvAKgOgmYtuy/view?usp=sharing" target="_blank">pdf</a>
 
