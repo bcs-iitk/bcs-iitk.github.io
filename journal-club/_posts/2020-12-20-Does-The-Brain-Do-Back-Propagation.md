@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Does The Brain Do Back Propagation
+title: Does The Brain Do Back Propagation?
 
 abstract: Here we build on past and recent developments to argue whether an algorithm similar to backpropagation enables learning in the brain and modulates synaptic plasticity. 
 ---
