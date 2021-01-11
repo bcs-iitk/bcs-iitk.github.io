@@ -16,7 +16,7 @@ the Bayesian Program Learning, which follows the idea of “how humans do one-sh
 Our talk focuses on developing more human-like algorithms like One-Shot Learning. This talk will involve Brendan Lake's paper, as well as other related literature. The speaker shall then discuss the studies he conducted with his mentor, Shashikant Gupta, which provides a completely deep-learning based approach to tackle the Omniglot dataset, and the progress they have achieved with the project.
 
 
-<!--**Slide:** [Link](https://drive.google.com/file/d/1bvzZSB9BrHcEV0idbWQN_oo45o1zfdLg/view?usp=sharing) <br>-->
+**Slide:** [Link](https://drive.google.com/file/d/1RQLN7csbY3u7vV1aEF2ZUd5CZSN3EkLx/view?usp=sharing) <br>
 **Video:** [Youtube](https://youtu.be/qGuqn1k0ww4) <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qGuqn1k0ww4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
