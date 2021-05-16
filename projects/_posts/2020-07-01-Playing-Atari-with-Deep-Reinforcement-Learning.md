@@ -1,14 +1,9 @@
 ---
 layout: project-completed
-
 title: Playing Atari with Deep Reinforcement Learning
-
 abstract: Atari 2600 is a challenging RL testbed that presents agents with a high dimensional visual input and a diverse and interesting set of tasks that were designed to be difficult for humans players. The goal is to connect a RL algorithm to an deep neural network which operates directly on RGB images and by using stochastic gradient updates. 
-
 stat: completed 
-
 mentor: Ishika Singh
-
 members: Aditya Gupta, Arka Das, Padmaja Chavan, Sajal Goyal
 
 

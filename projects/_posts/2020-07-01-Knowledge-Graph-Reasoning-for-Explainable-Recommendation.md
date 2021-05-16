@@ -1,14 +1,9 @@
 ---
 layout: project-completed
-
 title: Knowledge Graph Reasoning for Explainable Recommendation
-
 abstract: Knowledge Graphs connect various types of information related to items into a unified space. Different paths connecting entity pairs often carry relations of different semantics, and PGPR  (Policy Guided Path Reasoning) models these with the help of high-quality user and item representations generated using the TransE graph embedding scheme.
-
 stat: completed 
-
 mentor: Ishika Singh
-
 members: Aditi Goyal, Rahul Sethi, Somya Lohani, Vansh Bansal
 
 ---
