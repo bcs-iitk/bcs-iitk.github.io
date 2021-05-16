@@ -1,14 +1,9 @@
 ---
 layout: project-completed
-
 title: The Connectome Project
-
 abstract: This project seeks to understand what the connectome is and develop the modern tools required to study it. Through this project, we have looked at various the biological organization of neurons and the higher structures they form. We have looked into various neuroimaging  techniques that are involved. We also looked into the auditory system in humans; the visual system in insects, and in more detail the olfactory system in Drosophila.
-
 stat: completed 
-
 mentor: Yatin Azad
-
 members: Abhinaya, Bhuvan, Debaditya, Kunal, Vatsal
 
 ---

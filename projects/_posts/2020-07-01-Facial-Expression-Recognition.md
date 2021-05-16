@@ -1,11 +1,7 @@
 ---
 layout: project-completed
-
 title: Facial Expression Recognition
-
-abstract: Computer Vision , a well-known problem of every ML enthusiast , is leveraging the computer/machine with the ability to see and classify objects much like human beings. This project was based on exploring Computer vision to a little extent. The aim was to develop a Machine learning model which is able to classify some basic emotions (Happy , Sad, Angry, Disgust, Fear, Surprise and Contempt) using facial expressions of humans .We had chosen the CK+ dataset for implementation.
-Overall, the project had three phases : Preprocessing , Model , Evaluation.
-
+abstract: Computer Vision , a well-known problem of every ML enthusiast , is leveraging the computer/machine with the ability to see and classify objects much like human beings. This project was based on exploring Computer vision to a little extent. The aim was to develop a Machine learning model which is able to classify some basic emotions (Happy , Sad, Angry, Disgust, Fear, Surprise and Contempt) using facial expressions of humans .We had chosen the CK+ dataset for implementation. Overall, the project had three phases; Preprocessing , Model , Evaluation.
 stat: completed
 
 ---
