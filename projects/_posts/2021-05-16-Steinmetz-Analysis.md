@@ -1,5 +1,5 @@
 ---
-layout: project-ongoing
+layout: project-completed
 
 title: Analysing Steinmetz dataset to find the role of Hippocampus in Decision Making.
 

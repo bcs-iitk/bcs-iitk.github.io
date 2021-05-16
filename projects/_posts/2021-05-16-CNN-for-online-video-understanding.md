@@ -1,5 +1,5 @@
 ---
-layout: project-ongoing
+layout: project-completed
 
 title: Convolutional Network for Online Video Understanding
  

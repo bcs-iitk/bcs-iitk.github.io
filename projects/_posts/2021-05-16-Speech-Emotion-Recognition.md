@@ -1,5 +1,5 @@
 ---
-layout: project-ongoing
+layout: project-completed
 
 title: Speech Emotion Recognition
 

@@ -1,5 +1,5 @@
 ---
-layout: project-ongoing
+layout: project-completed
 
 title: How can I explain this to you?
 

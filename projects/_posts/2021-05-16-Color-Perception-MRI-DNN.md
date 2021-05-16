@@ -1,5 +1,5 @@
 ---
-layout: project-ongoing
+layout: project-completed
 
 title: Finding a correlation in color-perception MRI studies and deep neural network features
 
