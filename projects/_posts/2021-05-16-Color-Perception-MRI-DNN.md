@@ -1,5 +1,5 @@
 ---
-layout: project-completed
+layout: project-ongoing
 title: Finding a correlation in color-perception MRI studies and deep neural network features
 abstract: Multiple studies have been carried out to study how the brain perceives color. Some on macaque monkeys, some on humans. We start with studying the literature on color perception and on the experiments carried out. Then, we look for a dataset of MRI images on which a deep learning analysis can be done.
 stat: ongoing
