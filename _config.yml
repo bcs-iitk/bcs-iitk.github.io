@@ -5,6 +5,9 @@ url: "https://bcs-iitk.github.io"
 # paginate: 5
 # paginate_path: "/page:num/"
 # plugins: [jekyll-paginate]
+#
+plugins:
+  - jekyll-pdf-embed
 
 markdown: kramdown
 highlighter: rouge
