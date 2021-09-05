@@ -30,3 +30,8 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+<<<<<<< HEAD
+=======
+
+gem "webrick", "~> 1.7"
+>>>>>>> 14b105f (spooderman'c changes)
