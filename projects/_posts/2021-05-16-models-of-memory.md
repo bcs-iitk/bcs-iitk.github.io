@@ -10,6 +10,6 @@ Human memory can store large amounts of information. Nevertheless, recalling is 
 **Mentor:** Mohit Kulkarni<br>
 
 **Team Members:** A. Kedarnath, Amay Bhargava, Nilay Beniwal, Roylan Pais, Jaswant Kumar, Falguni Yadav, Akshay Mehta, Prajwal Arya, Deepalok Kaushik, Amartya S. Das, Aditya Prakash <br>
-{% pdf "/projects/posters/Models_of_Mermory.pdf" height=900px %}<br>
+{% pdf "/projects/posters/Models_of_Memory.pdf" height=900px %}<br>
 **Documentation:** <a href="https://drive.google.com/file/d/1x_MTrzn0rDEBCB5KxCMltprpQKvsdKvp/view?usp=sharing" target="_blank">Link</a><br>
 
