@@ -11,6 +11,4 @@ Using UCF101 and Something-Something datasets, we implement high-quality action 
 **Mentor:** Shivangi Singh, Tanvi Nerkar <br><br>
 **Team Members:** Dev Barbhaya, Ankit Yadav, Lochan Gupta, Utkarsh Agrawal, Vinamra Shrivastava <br><br>
 
-<!-- {% pdf "/projects/posters/CNN_for_video.pdf" height=900px %}<br> -->
-
 **Documentation :** <a href="https://drive.google.com/file/d/1Dvee3BAawAiUNqVMRTUC5k4r8yb7-4nU/view?usp=sharing" target="_blank">Link</a><br>

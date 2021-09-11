@@ -14,6 +14,5 @@ The motive of the project is to learn how to analyse a NeuroImaging data. We sta
 
 **Team Members:** : Bidhan Arya, P Praveen Kumar, Sagar Agarwal, Sarthak Gupta, Ritam Pal<br>
 
-<!-- {% pdf "/projects/posters/Analyzing_Steinmetz_dataset_POSTER-converted.pdf" height=900px %}<br> -->
 **Documentation :** <a href="https://drive.google.com/file/d/1AS7RXExJhiUej0P9GjZ8GuVBsIcZQGL9/view?usp=sharing" target="_blank">Link</a><br>
 

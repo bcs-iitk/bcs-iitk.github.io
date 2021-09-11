@@ -14,5 +14,4 @@ Using RAVDESS dataset which contains  around 1500 audio file inputs from 24 diff
 **Team Members:** : Arpit Verma, Aditya Gupta<br>
 <br>
 
-<!-- {% pdf "/projects/posters/Speech_Emotion_Recognition_Poster.pdf" height=900px %}<br> -->
 **Documentation :** <a href="https://drive.google.com/file/d/1ZCdvIAxpSDWxYIj4Nytal9SstZU5m3az/view?usp=sharing" target="_blank">Link</a><br>
