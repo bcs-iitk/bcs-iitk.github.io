@@ -5,7 +5,6 @@ abstract: Reinforcement Learning(RL) is  part of Machine Learning.RL provides ve
 stat: completed 
 mentor: Ishika Singh
 members: Aaryansh Mohan Bansal
-
 ---
 Reinforcement Learning(RL) is  part of Machine Learning.RL provides very innovative algorithms for control and prediction problems.the principle of RL methods is that there is no supervisor or explicit teacher to command the correct actions.The agent learns by interacting with the environment,rewarding itself when goals are achieved and punishing itself when not. 
 This forms the very true natural way of learning.
