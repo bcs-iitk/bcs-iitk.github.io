@@ -16,5 +16,5 @@ Neuroeconomics seeks to explain human decision making, the ability to process mu
 
 **Team Members :** Ayushi Chaudhary, Siddhant Singh, Subiksha Shree S <br><br>
 
-{% pdf "/projects/posters/Why_Would_You_Do_That.pdf" height=600px %}<br>
+<!-- {% pdf "/projects/posters/Why_Would_You_Do_That.pdf" height=600px %}<br> -->
 **Documentation :** <a href="https://drive.google.com/file/d/1KZZ28eCAJh5KfSdCAuupIV9SdzFE945A/view?usp=sharing" target="_blank">Link</a><br>
