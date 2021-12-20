@@ -1,0 +1,40 @@
+---
+layout: page
+type: home
+---
+
+  <div class="row" id="about">
+    <div class="col-xs-12 col-md-4 order-0 order-md-1 portrait">
+      <img class="portrait-img" src="{{ site.url }}{{ site.baseurl }}/assets/img/logo.png" alt="Responsive image">
+      <div class="bg-light" id="news">
+        <center><h1><small>News</small></h1></center>
+        <br>
+
+        {% for news in site.data.news %}
+        {% if news.link %}
+        <a href="{{ news.link }}" target="_blank">
+        {% else %}
+        <a href="#">
+        {% endif %}
+          <div class="news-item">
+            <small class="text-secondary">[ {{ news.date }} ]</small><br>
+            {{ news.title }}
+          </div>
+        </a>
+        {% endfor %}
+
+      </div>
+      <br>
+    </div>
+
+    <div class="col-xs-12 col-md-8 order-1 order-md-0">
+      <div class="">
+        <h1 class="post-title display-5">Welcome to {{ site.lab.full_name }}</h1>
+        <div class="post-content">
+          <p>{% include about.md %}</p>
+        </div>
+        <br>
+      </div>
+    </div>
+
+  </div>

@@ -1,0 +1,35 @@
+title: BCS @IITK
+description: "Homepage"
+repository: bcs-iitk/bcs-iitk.github.io
+url: "https://bcs-iitk.github.io"
+
+# paginate: 5
+# paginate_path: "/page:num/"
+# plugins: [jekyll-paginate]
+#
+plugins:
+  - jekyll-pdf-embed
+
+markdown: kramdown
+highlighter: rouge
+
+social-accounts:
+  facebook: "bcs.iitk"
+  twitter: "bcs_IITK"
+  youtube: "UC3vBBqgKjAfRZQ0di-Oy6yQ"
+  github: "bcs-iitk"
+  email: "bcs.iitk@gmail.com"
+  google-group: "bcs-iitk-mailing-list"
+  linkedin: "brain-and-cognitive-society-iit-kanpur"
+
+lab:
+  full_name: "Brain & Cognitive Society"
+  short_name: "BCS @IITK"
+  org_name: IIT Kanpur
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# google_analytics:
+# disqus_shortname:
