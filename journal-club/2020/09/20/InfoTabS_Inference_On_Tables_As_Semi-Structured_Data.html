@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<!-- <link rel="icon" href="../../../../favicon.ico"> -->
+
+<title>
+  InfoTabS - Inference on Tables as Semi-Structured Data | BCS @IITK
+</title>
+<link rel="shortcut icon" href="https://bcs-iitk.github.io/pages/bcs-iitk/assets/img/favicon.png">
+
+<!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<!-- Custom styles for this template -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link rel="stylesheet" href="/pages/bcs-iitk/assets/css/main.css">
+
+  </head>
+  <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<nav class="shadow-sm navbar navbar-expand-md navbar-light fixed-top " style="background-color: #ffffff;">
+  <a class="navbar-brand" href="https://bcs-iitk.github.io/pages/bcs-iitk/" style="text-transform: uppercase;">
+    <!-- <img src="/assets/img/favicon.png" width="27" height="27" class="rounded-circle d-inline-block align-top" alt=""> -->
+     BCS @IITK
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav  mr-auto">
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io">Home</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/projects">Projects</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/blog-post">Blogs</a>
+        
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="https://bcs-iitk.github.io/publications">Publications</a>
+      </li> -->
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/journal-club">Journal Club</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/events">Events</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/people">People</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/gallery">Gallery</a>
+        
+      </li>
+    </ul>
+
+    <!-- <a class="nav-link" href="https://bcs-iitk.github.io/team">Contact</a> -->
+    <a class="nav-link" href="https://groups.google.com/forum/#!forum/bcs-iitk-mailing-list" target="_blank">Join Mailing List</a>
+
+  </div>
+</nav>
+
+
+<main role="main" class="container">
+  <div class="hero">
+  <h1 class="display-5">InfoTabS - Inference on Tables as Semi-Structured Data</h1>
+  <h4 class=""><small class="text-muted">September 20, 2020</small></h4>
+  <h4>
+    <a href="/pages/bcs-iitk/journal-club/2020/09/13/Neural_Contraints-On-Learning.html" class="post-nav" data-toggle="tooltip" data-placement="left" title="Neural Constraints on Learning"><i class="fas fa-arrow-left"></i></a>
+    <a href="https://bcs-iitk.github.io/pages/bcs-iitk/projects" class="post-nav"><i class="fas fa-home"></i></a>
+    <a href="/pages/bcs-iitk/journal-club/2020/10/03/Investigating_Inductive_Biases_in_Humans_and_Machines.html" class="post-nav" data-toggle="tooltip" data-placement="right" title="Investigating Inductive Biases in Humans and Machines"><i class="fas fa-arrow-right"></i></a>
+  </h4>
+</div>
+
+<div class="post border-top">
+  <div class="post-content lead">
+    <p><p><strong>Speaker:</strong> <a href="https://vgupta123.github.io/" target="_blank">Vivek Gupta</a>, Y11 Dual-Degree CSE, 1st Co-ordinator of SIGML, Currently PhD student at School of Computiong, University of Utah.<br />
+<strong>Title:</strong> <a href="https://infotabs.github.io/" target="_blank">InfoTabS</a> - Inference on Tables as Semi-Structured Data <br />
+<strong>Type:</strong> Own PhD Research <br />
+<strong>Other memebrs:</strong> Maitrey Mehta, Pegah Nokhiz, Vivek Srikumar <br />
+<strong>Abstract:</strong> 
+<br />Understanding ubiquitous semi-structured tabulated data requires not only comprehending the meaning of text fragments, but also implicit relationships between them. We argue that such data can prove as a testing ground for understanding how we reason about information. To study this, we introduce a new dataset called INFOTABS, consisting of human-written textual hypotheses based on premises that are tables extracted from Wikipedia info-boxes. Our analysis shows that the semi-structured, multi-domain and heterogeneous nature of the premises admits complex, multi-faceted reasoning.</p>
+
+<p>He has also shared many of his experiences and some valuable insights for heading into research as a career option.<br /></p>
+
+<p><strong>Slide:</strong> <a href="https://drive.google.com/file/d/1bvzZSB9BrHcEV0idbWQN_oo45o1zfdLg/view?usp=sharing">Link</a> <br />
+<strong>Video:</strong> <a href="https://www.youtube.com/watch?v=55xIFjvQsL8&amp;feature=youtu.be">Youtube</a> <br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/55xIFjvQsL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p><strong>Connect with the Speaker on -</strong></p>
+<ul>
+  <li><a href="https://www.facebook.com/vivek.gupta.3150" target="_blank">Facebook</a></li>
+  <li><a href="https://www.linkedin.com/in/keviv9/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://anciitk.in/blog/CaRE/4/" target="_blank">AnC Council Interview</a></li>
+</ul>
+</p>
+  </div>
+</div>
+<div class="fb-comments" data-href="https://bcs-iitk.github.io/journal-club/2020/09/20/InfoTabS_Inference_On_Tables_As_Semi-Structured_Data.html" data-width="100%" data-numposts="5"></div>
+
+</main>
+
+<footer class="footer bg-light">
+  <div class="container">
+    <div class="footer-content">
+      <h1>
+        <a href="mailto:bcs.iitk@gmail.com" class="social-icon" target="_blank"><i class="fas fa-envelope"></i></a>
+        <a href="https://www.facebook.com/bcs.iitk" class="social-icon" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://github.com/bcs-iitk" class="social-icon" target="_blank"><i class="fab fa-github-alt"></i></a>
+        <a href="https://youtube.com/channel/UC3vBBqgKjAfRZQ0di-Oy6yQ" class="social-icon" target="_blank"><i class="fab fa-youtube"></i></i></a>
+        <a href="https://groups.google.com/forum/#!forum/bcs-iitk-mailing-list" class="social-icon" target="_blank"><i class="fab fa-google-plus-g"></i></a>
+        <a href="https://twitter.com/bcs_IITK" class="social-icon" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://linkedin.com/company/brain-and-cognitive-society-iit-kanpur" class="social-icon" target="_blank"><i class="fab fa-linkedin"></i></a>
+      </h1>
+      <p class="" style="padding-top: 1rem;"><i class="far fa-copyright"></i> 2021 Brain & Cognitive Society, IIT Kanpur</p>
+      <p>Designed by <a href="http://shashikg.github.io/" target="_blank" class="text-decoration-none">Shashi Kant</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>

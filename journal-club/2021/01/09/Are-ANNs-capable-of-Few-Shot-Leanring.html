@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<!-- <link rel="icon" href="../../../../favicon.ico"> -->
+
+<title>
+  Are ANNs capable of Few-Shot Learning? | BCS @IITK
+</title>
+<link rel="shortcut icon" href="https://bcs-iitk.github.io/pages/bcs-iitk/assets/img/favicon.png">
+
+<!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<!-- Custom styles for this template -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link rel="stylesheet" href="/pages/bcs-iitk/assets/css/main.css">
+
+  </head>
+  <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<nav class="shadow-sm navbar navbar-expand-md navbar-light fixed-top " style="background-color: #ffffff;">
+  <a class="navbar-brand" href="https://bcs-iitk.github.io/pages/bcs-iitk/" style="text-transform: uppercase;">
+    <!-- <img src="/assets/img/favicon.png" width="27" height="27" class="rounded-circle d-inline-block align-top" alt=""> -->
+     BCS @IITK
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav  mr-auto">
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io">Home</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/projects">Projects</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/blog-post">Blogs</a>
+        
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="https://bcs-iitk.github.io/publications">Publications</a>
+      </li> -->
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/journal-club">Journal Club</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/events">Events</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/people">People</a>
+        
+      </li>
+      <li class="nav-item">
+        
+          <a class="nav-link" href="https://bcs-iitk.github.io/gallery">Gallery</a>
+        
+      </li>
+    </ul>
+
+    <!-- <a class="nav-link" href="https://bcs-iitk.github.io/team">Contact</a> -->
+    <a class="nav-link" href="https://groups.google.com/forum/#!forum/bcs-iitk-mailing-list" target="_blank">Join Mailing List</a>
+
+  </div>
+</nav>
+
+
+<main role="main" class="container">
+  <div class="hero">
+  <h1 class="display-5">Are ANNs capable of Few-Shot Learning?</h1>
+  <h4 class=""><small class="text-muted">January 9, 2021</small></h4>
+  <h4>
+    <a href="/pages/bcs-iitk/journal-club/2020/12/20/Does-The-Brain-Do-Back-Propagation.html" class="post-nav" data-toggle="tooltip" data-placement="left" title="Does The Brain Do Back Propagation?"><i class="fas fa-arrow-left"></i></a>
+    <a href="https://bcs-iitk.github.io/pages/bcs-iitk/projects" class="post-nav"><i class="fas fa-home"></i></a>
+    <a href="/pages/bcs-iitk/events/2021/01/23/BCS-Workshop-Jan-2021.html" class="post-nav" data-toggle="tooltip" data-placement="right" title="Brain and Cognitive Society Online Workshop Jan '21"><i class="fas fa-arrow-right"></i></a>
+  </h4>
+</div>
+
+<div class="post border-top">
+  <div class="post-content lead">
+    <p><p><strong>Speaker:</strong> Som V Tambe, an Undergraduate student at the Dept. of Aerospace Engineering, IIT Kanpur.<br />
+<strong>Title:</strong> Are ANNs capable of Few-Shot Learning?</p>
+
+<p><strong>Abstract:</strong><br />
+Despite remarkable advances in artificial intelligence and machine learning, machine systems have lagged behind Human Learning in two aspects. First, people can learn a new concept from just one or a handful of examples, whereas standard algorithms in machine learning require tens or hundreds of examples to perform similarly. Second, people learn richer representations than machines do, even for simple concepts, using them for a wider range of functions. Past efforts to counter these problems include
+the Bayesian Program Learning, which follows the idea of “how humans do one-shot classification”. The Bayesian Program Learning paper was remarkable but seems to have hand-engineered various parts of the model.</p>
+
+<p>Our talk focuses on developing more human-like algorithms like One-Shot Learning. This talk will involve Brendan Lake’s paper, as well as other related literature. The speaker shall then discuss the studies he conducted with his mentor, Shashikant Gupta, which provides a completely deep-learning based approach to tackle the Omniglot dataset, and the progress they have achieved with the project.</p>
+
+<p><strong>Slide:</strong> <a href="https://drive.google.com/file/d/1RQLN7csbY3u7vV1aEF2ZUd5CZSN3EkLx/view?usp=sharing">Link</a> <br />
+<strong>Video:</strong> <a href="https://youtu.be/qGuqn1k0ww4">Youtube</a> <br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGuqn1k0ww4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+</p>
+  </div>
+</div>
+<div class="fb-comments" data-href="https://bcs-iitk.github.io/journal-club/2021/01/09/Are-ANNs-capable-of-Few-Shot-Leanring.html" data-width="100%" data-numposts="5"></div>
+
+</main>
+
+<footer class="footer bg-light">
+  <div class="container">
+    <div class="footer-content">
+      <h1>
+        <a href="mailto:bcs.iitk@gmail.com" class="social-icon" target="_blank"><i class="fas fa-envelope"></i></a>
+        <a href="https://www.facebook.com/bcs.iitk" class="social-icon" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://github.com/bcs-iitk" class="social-icon" target="_blank"><i class="fab fa-github-alt"></i></a>
+        <a href="https://youtube.com/channel/UC3vBBqgKjAfRZQ0di-Oy6yQ" class="social-icon" target="_blank"><i class="fab fa-youtube"></i></i></a>
+        <a href="https://groups.google.com/forum/#!forum/bcs-iitk-mailing-list" class="social-icon" target="_blank"><i class="fab fa-google-plus-g"></i></a>
+        <a href="https://twitter.com/bcs_IITK" class="social-icon" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://linkedin.com/company/brain-and-cognitive-society-iit-kanpur" class="social-icon" target="_blank"><i class="fab fa-linkedin"></i></a>
+      </h1>
+      <p class="" style="padding-top: 1rem;"><i class="far fa-copyright"></i> 2021 Brain & Cognitive Society, IIT Kanpur</p>
+      <p>Designed by <a href="http://shashikg.github.io/" target="_blank" class="text-decoration-none">Shashi Kant</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>
