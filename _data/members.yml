@@ -1,6 +1,6 @@
 - firstname: Shivanshu
   lastname: Tyagi
-  post: Coordinator
+  post: Leader
   img: shivanshu.jpg
   github: spazewalker
   fb: shiv.2113
@@ -9,7 +9,7 @@
   about: I'm an undergrad from IIT Kanpur. I'm interested in Artificial Intillegence, particularly in Computer Vision and "Reverse-Engineering" the brain to create effecient "AI". I'm also involved in Open-Source development of OpenCV and hope to do some research related to the mentioned fields. I like lite economics as well. While I'm not at my desk, i enjoy music and some occasional basketball. Read more <a href="https://spazewalker.github.io">here</a>. Ping me for anything.
 - firstname: Mohit
   lastname: Kulkarni
-  post: Coordinator
+  post: Leader
   img: mohit.jpg
   github: m2kulkarni
   fb: mohit.kulkarni.94695
@@ -29,9 +29,9 @@
   lastname: Balwani
   post: Secretary
   img: Dhwanit.jpg
-  github:
-  fb: 
-  mail:
+  github: dhwanit75
+  fb: dhwanit.balwani
+  mail: dhwanitb20@iitk.ac.in
   about: Hi! I am a second-year undergrad in the CHE department . I am interested in the application of Machine Learning and Deep Learning in various fields including Neural Imaging and Radiology . My hobbies include watching all kinds of sports but mainly football.
 
 - firstname: Nakul
@@ -56,9 +56,9 @@
   lastname: Sharma
   post: Secretary
   img: rashmi.jpg
-  github: 
-  fb: 
-  mail: 
+  github: rashmidotexe
+  fb: rashmidotexe
+  mail: rashmis20@iitk.ac.in
   about: Hey there! I am an undergraduate sophomore in the Physics Department. My interests lie in Convolutional Neural Networks (and its recently emerging sister field Quantum Neural Networks) and Computational Cognitive Sciences. I also enjoy Museums and Art Galleries, Motorsports, and the Stars.
 
 - firstname: Sahil
@@ -74,8 +74,8 @@
   lastname: Kapoor
   post: Secretary
   img: Sarah.jpg
-  github: https://github.com/sarahkapoor06
-  fb: https://www.facebook.com/sarah.kapoor.798278/
+  github: sarahkapoor06
+  fb: sarah.kapoor.798278
   mail: sarah20@iitk.ac.in
   about: Hi! I’m a second year student from the Chemical Department. I’m fascinated by the use of Machine Learning and Convolutional Neural Networks, and am particularly interested in their applications in fields such as Facial and Speech Emotion Recognition. I love reading books, and I’m also a travel freak and have explored several places.
 
@@ -94,7 +94,8 @@
   img: shubham.jpg
   github: 
   fb: 
-  mail: Hello! I'm a sophomore from AE department. I'm interested in Machine Learning, Convolutional Neural Networks, robotics. I'm also interested in reading books and watching Web series. 
+  mail: 
+  about: Hello! I'm a sophomore from AE department. I'm interested in Machine Learning, Convolutional Neural Networks, robotics. I'm also interested in reading books and watching Web series. 
 
 - firstname: Siddhant
   lastname: Singh
@@ -118,26 +119,26 @@
   lastname: Kumar
   post: Secretary
   img: Tanush.jpeg
-  github: 
-  fb: 
-  mail: 
+  github: RVP20
+  fb: profile.php?id=100010387815907
+  mail: tanushk20@iitk.ac.in
   about: Hi! I’m a second year undergraduate student in the Mathematics department. My primary interests lie in the application of Machine Learning and Deep Learning in the domain of Cognitive Sciences and Psychology. Apart from that, I enjoy reading novels and watching football.
 
 - firstname: Tanushree
   lastname: Jalewa
   post: Secretary
   img: tanushree.jpeg
-  github: https://github.com/TanushreeJalewa
-  fb: https://github.com/TanushreeJalewa
+  github: TanushreeJalewa
+  fb: TanushreeJalewa
   mail: tanushree20@iitk.ac.in
-  about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
+  about: Hello!! I am a second year undergraduate student in MTH department. My interests lie in Convolutional Neural Networks, and Computer Vision. l like exploring new places so fond of travelling.
 
 - firstname: Saurabh
   lastname: Patil
   post: Secretary
   img: Saurabh.jpg
-  github: https://github.com/berserkarray
-  fb: https://www.facebook.com/Saurabhpatil.illusion/
+  github: berserkarray
+  fb: Saurabhpatil.illusion
   mail: patilsn20@iitk.ac.in
   about: hi, im saurabh (or spooderman) majoring in Physics. Within bcs my interest lies in neuroscience and Deep learning, i wakeup choose a dataset and try experimenting on it. Outside bcs im a weeb, motorhead, memer and huge consumer of hiphop(desi hiphop as well)
    
