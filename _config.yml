@@ -1,7 +1,7 @@
 title: BCS @IITK
 description: "Homepage"
-repository: KumarKanishkSingh/bcs-iitk.github.io
-url: "https://bcs-iitkc.github.io"
+repository: /KumarKanishkSingh/bcs-iitk.github.io
+url: "/https://bcs-iitkc.github.io"
 
 # paginate: 5
 # paginate_path: "/page:num/"
