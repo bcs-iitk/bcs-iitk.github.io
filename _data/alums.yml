@@ -1,38 +1,38 @@
-- tenure: 2020-21
-  members:
-  - firstname: Yash
-    lastname: Baheti
-    post: Coordinator
-    img: yash.jpg
-    github: yashbth
-    fb: yash.baheti.102
-    mail: yashbth@iitk.ac.in
-    about: Hey there! I am a fourth year undergraduate student in Computer Science department at IIT Kanpur. My major interest areas lies around Cognitive Science (which in itself is an intersection of psychology, neuroscience and computer science) and Entrepreneurship. Within cognitive science, some of the topics I find very intriguing are habit formation, development of brain in early stages, decision making under stress and anything else related to the mysterious ways in which our brains function. Other than that, I am a bibliophile. Plus I loveee walks. If you ever feel like talking/asking about anything (within or outside BCS) or buying me dinner, feel free to ping :)
+# - tenure: 2020-21
+#   members:
+#   - firstname: Yash
+#     lastname: Baheti
+#     post: Coordinator
+#     img: yash.jpg
+#     github: yashbth
+#     fb: yash.baheti.102
+#     mail: yashbth@iitk.ac.in
+#     about: Hey there! I am a fourth year undergraduate student in Computer Science department at IIT Kanpur. My major interest areas lies around Cognitive Science (which in itself is an intersection of psychology, neuroscience and computer science) and Entrepreneurship. Within cognitive science, some of the topics I find very intriguing are habit formation, development of brain in early stages, decision making under stress and anything else related to the mysterious ways in which our brains function. Other than that, I am a bibliophile. Plus I loveee walks. If you ever feel like talking/asking about anything (within or outside BCS) or buying me dinner, feel free to ping :)
 
-  - firstname: Ishika
-    lastname: Singh
-    post: Coordinator
-    img: ishika.jpg
-    github: ishikasingh
-    fb: ishika.singh.3323
-    mail: ishikas@iitk.ac.in
-    about: I am pursuing B.Tech. Double major in CHE and CSE. My research interest pertains to Human-centred AI and Human-computer Interface. I also spend time in theoretical ML.
+#   - firstname: Ishika
+#     lastname: Singh
+#     post: Coordinator
+#     img: ishika.jpg
+#     github: ishikasingh
+#     fb: ishika.singh.3323
+#     mail: ishikas@iitk.ac.in
+#     about: I am pursuing B.Tech. Double major in CHE and CSE. My research interest pertains to Human-centred AI and Human-computer Interface. I also spend time in theoretical ML.
 
-  - firstname: Avisha
-    lastname: Gaur
-    post: Coordinator
-    img: avisha.jpg
-    fb: avisha.gaur.04
-    mail: avisha@iitk.ac.in
-    about: I am an electrical engineering undergraduate student. My true passion is understanding emotions, how they work, and how the brain implements them. I like the challenge of unfolding various intertwined cognitive processes that take place in the background of human reactions when they feel a certain emotion. I enjoy socializing and digging up stories of people around me. In my leisure time, I honestly love to read or munch on loads of fast food and watch TV shows.
+#   - firstname: Avisha
+#     lastname: Gaur
+#     post: Coordinator
+#     img: avisha.jpg
+#     fb: avisha.gaur.04
+#     mail: avisha@iitk.ac.in
+#     about: I am an electrical engineering undergraduate student. My true passion is understanding emotions, how they work, and how the brain implements them. I like the challenge of unfolding various intertwined cognitive processes that take place in the background of human reactions when they feel a certain emotion. I enjoy socializing and digging up stories of people around me. In my leisure time, I honestly love to read or munch on loads of fast food and watch TV shows.
 
-  - firstname: Yatin
-    lastname: Azad
-    post: Coordinator
-    img: yatin.jpg
-    fb: yatin.azad.7
-    mail: yatinaz@iitk.ac.in
-    about: I am a third-year Undergraduate at BSBE and I am interested in temporal aspects of Neural Coding and how it’s influenced by our current mood. In the future, I hope to contribute towards ongoing efforts to develop a complete connectome of the human brain that can replicate human emotions and behavior. My hobbies include pretty much anything I can get my hands on, cooking, reading, and listening to music are my favorites.
+#   - firstname: Yatin
+#     lastname: Azad
+#     post: Coordinator
+#     img: yatin.jpg
+#     fb: yatin.azad.7
+#     mail: yatinaz@iitk.ac.in
+#     about: I am a third-year Undergraduate at BSBE and I am interested in temporal aspects of Neural Coding and how it’s influenced by our current mood. In the future, I hope to contribute towards ongoing efforts to develop a complete connectome of the human brain that can replicate human emotions and behavior. My hobbies include pretty much anything I can get my hands on, cooking, reading, and listening to music are my favorites.
 - tenure: founder
   members:
   - firstname: Shashi

@@ -1,6 +1,232 @@
+- firstname: Saurabh
+  lastname: Patil
+  post: Leader
+  img: Saurabh.jpg
+  github: berserkarray
+  fb: Saurabhpatil.illusion
+  mail: patilsn20@iitk.ac.in
+  about: hi, im saurabh (or spooderman) majoring in Physics. Within bcs my interest lies in neuroscience and Deep learning, i wakeup choose a dataset and try experimenting on it. Outside bcs im a weeb, motorhead, memer and huge consumer of hiphop(desi hiphop as well)
+   
+- firstname: Shashwat
+  lastname: Gupta
+  post: Leader
+  img: Shashwat Gupta.jpg
+  github: 
+  fb: 
+  mail: 
+  about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
+
+  
+- firstname: Suyash
+  lastname: Mallik
+  post: Leader
+  img: Suyash.jpg
+  github: 
+  fb: 
+  mail: 
+  about: Hi! I am a sophomore from the EE department. I’m interested in exploring neural simulation, imaging and the cognitive processes that drive our behaviour. My hobbies include reading books about anything under the sun, or listening to a very specific kind of indie rock. :P\
+
+- firstname: Aadvik 
+  lastname: Kumar
+  post: Secretary
+  img: Aadhvik.jpg
+  github: https://github.com/Aadvik-Kumar
+  fb: https://www.facebook.com/profile.php?id=100074851116090
+  mail: aadvik21@iitk.ac.in
+  about: Hiii! I am a sophomore in Biological Sciences and Bioengineering Department at IITK :). My interests lie in Machine Learning, Deep Learning and Robotics. I really love Anime UwU, Cats, Food and Music. You would find me mostly Listening to Spotify or Watching Anime. :))))
+
+- firstname: Anchit 
+  lastname: Jain
+  post: Secretary
+  img: Anchit.jpg
+  github: https://github.com/6Tgraybird
+  fb: https://www.facebook.com/anchitjain21/
+  mail: anchitj21@iitk.ac.in
+  about: Hi! I'm a MSE undergrad at the Indian Institute of Technology,Kanpur. My interests lies in the domain of machine learning and deep learning; Image processing, Neural Networks and their applications. My hobbies include listening to the soft music and to explore anything related to the Technology.
+- firstname: Aniruddh 
+  lastname: Pramod
+  post: Secretary
+  img: Aniruddh.jpg
+  github: https://github.com/atryt0ne/
+  fb: https://www.facebook.com/profile.php?id=100073246155953
+  mail: aniruddhp21@iitk.ac.in
+  about: Hey! I'm a second year undergrad in the Mathematics Department. I'm fascinated by the applications of Neural Networks and a rookie explorer in the field of Neuroscience. You can also find me playing the synth, or maybe lost in a youtube rabbithole at CCD.
+
+- firstname: Ankit 
+  lastname: Khandelwal
+  post: Secretary
+  img: Jar Jar.jpg
+  github: https://github.com/ankitkh21
+  fb: https://www.facebook.com/profile.php?id=100074214024316
+  mail: ankitkh21@iitk.ac.in
+  about: Hii! I am a sophomore studying ELECTRICAL ENGINEERING. I am currently interested in machine learning and neural networks. I also love to listen classical songs and to read philosophical and literary books.
+
+- firstname: Asjad 
+  lastname: Raza
+  post: Secretary
+  img: Asjad.jpeg
+  github: https://github.com/asjadr21
+  fb: https://www.facebook.com/asjad.raza.33/
+  mail: asjadr21@iitk.ac.in
+  about: Hey there!!! I am Asjad Raza....I am a sophomore in the department of Chemical Engineering... I love solving problems and puzzles.. I am also an anime fan :P. These days I am really interested in learning about Machine learning and facinated by neural networks and the things we  can do using them. I also love listening to Classical music and admire appreciating artworks.
+
+- firstname: Manideep
+  lastname: 
+  post: Secretary
+  img: beluga.jpg
+  github: https://github.com/ManideepDonkena
+  fb: https://www.facebook.com/profile.php?id=100075449761060
+  mail: 
+  about: Hey!! This is Manideep, I am a sophomore in the department of Electrical Engineering... I love watching Movies :P and  I frequently read novels, I am pretty much interested in learning ML and Deep Learning Models and their applications.
+
+- firstname: Khush 
+  lastname: Gandhi
+  post: Secretary
+  img: Khush.jpg
+  github: 
+  fb: https://www.facebook.com/khush.gandhi.395
+  mail: khushcg21@iitk.ac.in
+  about: Hello! I am a sophomore pursuing Mechanical Engineering. I am interested in Deep Learning and Neural Networks and the vast domain associated with it. I am forced to sit and browse wikipedia of random stuff sometimes by my mind, can't help. Also, I am a cinephile, who appreciates great cinema.
+
+- firstname: Harsh 
+  lastname: Verma 
+  post: Secretary
+  img: Harsh.jpg
+  github: https://github.com/Harshverma21
+  fb: https://www.facebook.com/profile.php?id=100075017183887
+  mail: hverma21@iitk.ac.in
+  about: Hello I am Harsh Verma from Economics department ,Hall 5. My main interest is AI as in future it willl be ruling.
+
+- firstname: Kumar Kanishk
+  lastname: Singh
+  post: Secretary
+  img: Kanishk.jpg
+  github: https://github.com/KumarKanishkSingh
+  fb: https://www.facebook.com/profile.php?id=100075477366385
+  mail: kksingh21@iitk.ac.in
+  about: Hi !!! I am Kumar Kanishk Singh, a sophomore in Statistics and Data Science Department at IITK. I am interested in AI and ML. My hobbies are Video Gaming and watching Anime.
+
+- firstname: Pankajh 
+  lastname: Jhamtani
+  post: Secretary
+  img: Pankajh.jpg
+  github: https://github.com/pjham
+  fb: https://www.facebook.com/pankajh.jhamtani.92/
+  mail: pankajhj21@iitk.ac.in
+  about: Helllooo. I am a sophomore in the Statistics and data science program. Huge fan of Neural networks. I am fascinated by computer vision, NLP, and basically anything related to technology that recreates and/or studies human behavior and senses. I like to listen to music to which I can dance and watch movies that take me out of this world. Always trying to do better than yesterday.
+
+- firstname: Shubham Devang 
+  lastname: Patel
+  post: Secretary
+  img: Shubham.jpg
+  github: https://github.com/SP1029
+  fb: https://www.facebook.com/profile.php?id=100075458312355
+  mail: devang21@iitk.ac.in
+  about: Hello! I am a sophomore at IITK. I am willing to explore the field Artificial Intelligence and Machine Learning. My hobby is to Fly Kites!.
+
+- firstname: Pradeep
+  lastname: Chahal
+  post: Secretary
+  img: Jar Jar.jpg
+  github: https://github.com/pradeep2c1
+  fb: https://www.facebook.com/pradeep.chahal.9809/
+  linkedin: 
+  mail: pradeepc21@iitk.ac.in
+  about: Hey! I'm Pradeep Chahal, a sophomore at IITK in the Computer Science and Engineering department. I am mainly interested in the domain of AI and ML.
+
+- firstname: Pranjal
+  lastname: Singh
+  post: Secretary
+  img: Jar Jar.jpg
+  github: https://github.com/pranjalsingh4550
+  fb: https://www.facebook.com/profile.php?id=100074920790585
+  mail: psingh21@iitk.ac.in
+  about: Hi. I'm interested in computational neuroscience and neurophilosophy (and my major, CSE). My hobbies are humming and clearing my inbox. But you're welcome to drop an email!
+
+- firstname: Priyanshu
+  lastname: Tiwari
+  post: Secretary
+  img: Priyanshu.jpg
+  github: https://github.com/PtIITK
+  fb: https://www.facebook.com/priyanshutiwari.0312
+  mail: priyanshut21@iitk.ac.in
+  about: Hi! I'm Priyanshu, a sophomore studying Materials Science and Engineering. I am interested in neuroscience, cognitive psychology, and behaviour, but I am always willing to try new things. In my spare time, I enjoy reading blogs and playing tennis.
+
+- firstname: Roy Shivam Ram
+  lastname: Shreshtth
+  post: Secretary
+  img: Roy.jpg
+  github: https://github.com/Royshivam18
+  fb: https://www.facebook.com/people/Shivam-Roy/100075156648451/
+  mail: shivamr21@iitk.ac.in
+  about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
+
+- firstname: Shlok
+  lastname: Mishra
+  post: Secretary
+  img: Shlok.jpg
+  github: https://github.com/shlokmishra
+  fb: https://www.facebook.com/shlokmishra08/
+  mail: shlokm21@iitk.ac.in
+  about: Yo! This is Shlok, currently a sophomore with Stats and Data Science as my major. I like to play various sports like squash, lawn tennis, soccer, etc. I'll obviously make a (fake?) claim that I'm really interested in Deep Learning, Machine Learning and its applications and of course in Neuroscience too!
+  
+- firstname: Shreyas
+  lastname: Minz
+  post: Secretary 
+  img: Shreyas.jpeg
+  github: https://github.com/sam-016
+  fb: https://www.facebook.com/profile.php?id=100075123377863
+  mail: shreyasam21@iitk.ac.in
+  about: Hi, I'm Shreyas a sophomore from the Eco department. Within bcs my interest lies in neuroscience and machine learning, I like to read various articles and research papers on brain enhancement, brain implants and ai. Outside bcs I'm a weeb, i like to read novels or mangas also i like playing football.
+
+# - firstname: Venkaat
+#   lastname: Balaje
+#   post: Secretary
+#   img: Jar Jar.jpg
+#   github: 
+#   fb: 
+#   mail: 
+#   about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
+
+- firstname: Vibhansh
+  lastname: Bhatia
+  post: Secretary
+  img: Vibhansh.jpg
+  github: https://github.com/Monochrome901
+  fb: https://m.facebook.com/100073917332833/
+  mail: vibhanshb21@iitk.ac.in
+  about: Hey! I am Vibhansh Bhatia from mechanical engineering. I belong from lucknow, and my hobbies include anime, mangas, listening to music (mostly indie). also I will a part of AI/ML vertical. 
+
+- firstname: Vijaya
+  lastname: Anand
+  post: Secretary
+  img: Vijaya.jpg
+  github: https://github.com/ppopdesk
+  fb: https://www.facebook.com/ashford.fedrick/
+  mail: vijaya21@iitk.ac.in
+  about: Hi! I am a sophomore studying Mathematics. I am currently interested in neuroscience, mathematics and computer science (haven’t rlly explored any particular topic in deep in any of these fields yet). I also enjoy listening to music, watching films and hanging out with my friends. 
+
+- firstname: Palak
+  lastname: Mishra
+  post: Secretary
+  img: Palak.jpg
+  github: https://github.com/Mishra-Palak
+  fb: https://www.facebook.com/profile.php?id=100085316264689
+  mail: palakm21@iitk.ac.in
+  about: Hi! I am Palak Mishra, a Statistics and Data Science undergrad at Indian Institute of Technology, Kanpur. I am deeply fascinated and intrigued by the Data Science field that provides not just the technology to curate and extract deep insights from the data, but also helps to learn the art to represent and share these insights for meaningful purposes to industry and society at large. I've got interest specifically in neural networks and deep learning. My hobbies are traveling and skating.
+
+- firstname: Samruddhi
+  lastname: Lute
+  post: Secretary
+  img: Samrudhhi.png
+  github: https://github.com/samruddhi1943
+  fb: https://m.facebook.com/100075158895996/
+  mail: samruddhi21@iitk.ac.in
+  about: Hey! I'm a sophomore in Mechanical engineering department. I'm fascinated by deep learning and cognitive psychology. I also love travelling, exploring and reading books in my spare time.
+
 - firstname: Shivanshu
   lastname: Tyagi
-  post: Leader
+  post: Ex-Leader
   img: shivanshu.jpg
   github: spazewalker
   fb: shiv.2113
@@ -9,139 +235,143 @@
   about: I'm an undergrad from IIT Kanpur. I'm interested in Artificial Intillegence, particularly in Computer Vision and "Reverse-Engineering" the brain to create effecient "AI". I'm also involved in Open-Source development of OpenCV and hope to do some research related to the mentioned fields. I like lite economics as well. While I'm not at my desk, i enjoy music and some occasional basketball. Read more <a href="https://spazewalker.github.io">here</a>. Ping me for anything.
 - firstname: Mohit
   lastname: Kulkarni
-  post: Leader
+  post: Ex-Leader
   img: mohit.jpg
   github: m2kulkarni
   fb: mohit.kulkarni.94695
   mail: mohitmk@iitk.ac.in
   about: I'm a Mathematics undergrad at the Indian Institute of Technology, Kanpur. I like working on the interesection on nature and Technology. My endeavours have taken me in various domains including but not limited to Neuroscience, Robotics, Dynamical Systems etc. I love reading Research papers and am always open to exploring new stuff. Shoot me an Email with your favorites reading. Read more <a href="https://m2kulkarni.github.io/">here</a>.
+- firstname: Yash
+  lastname: Baheti
+  post: Ex-Leader
+  img: yash.jpg
+  github: yashbth
+  fb: yash.baheti.102
+  mail: yashbth@iitk.ac.in
+  about: Hey there! I am a fourth year undergraduate student in Computer Science department at IIT Kanpur. My major interest areas lies around Cognitive Science (which in itself is an intersection of psychology, neuroscience and computer science) and Entrepreneurship. Within cognitive science, some of the topics I find very intriguing are habit formation, development of brain in early stages, decision making under stress and anything else related to the mysterious ways in which our brains function. Other than that, I am a bibliophile. Plus I loveee walks. If you ever feel like talking/asking about anything (within or outside BCS) or buying me dinner, feel free to ping :)
 
-- firstname: Akanksha
+- firstname: Ishika
   lastname: Singh
-  post: Secretary
-  img: Akanksha.jpg
-  github: 
-  fb: 
-  mail: 
-  about: Heya! I'm a UG second year student in the CSE department. My interests lie in Natural language processing, psychology and reinforcement learning. I also love reading, eating and debating. If you've got some good books or food, would love to try them :p
+  post: Ex-Leader
+  img: ishika.jpg
+  github: ishikasingh
+  fb: ishika.singh.3323
+  mail: ishikas@iitk.ac.in
+  about: I am pursuing B.Tech. Double major in CHE and CSE. My research interest pertains to Human-centred AI and Human-computer Interface. I also spend time in theoretical ML.
 
-- firstname: Dhwanit
-  lastname: Balwani
-  post: Secretary
-  img: Dhwanit.jpg
-  github: dhwanit75
-  fb: dhwanit.balwani
-  mail: dhwanitb20@iitk.ac.in
-  about: Hi! I am a second-year undergrad in the CHE department . I am interested in the application of Machine Learning and Deep Learning in various fields including Neural Imaging and Radiology . My hobbies include watching all kinds of sports but mainly football.
+- firstname: Avisha
+  lastname: Gaur
+  post: Ex-Leader
+  img: avisha.jpg
+  fb: avisha.gaur.04
+  mail: avisha@iitk.ac.in
+  about: I am an electrical engineering undergraduate student. My true passion is understanding emotions, how they work, and how the brain implements them. I like the challenge of unfolding various intertwined cognitive processes that take place in the background of human reactions when they feel a certain emotion. I enjoy socializing and digging up stories of people around me. In my leisure time, I honestly love to read or munch on loads of fast food and watch TV shows.
 
-- firstname: Nakul
-  lastname: Patel
-  post: Secretary
-  img: Nakul_patel.jpg
-  github: 
-  fb: 
-  mail: 
-  about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
+- firstname: Yatin
+  lastname: Azad
+  post: Ex-Leader
+  img: yatin.jpg
+  fb: yatin.azad.7
+  mail: yatinaz@iitk.ac.in
+  about: I am a third-year Undergraduate at BSBE and I am interested in temporal aspects of Neural Coding and how it’s influenced by our current mood. In the future, I hope to contribute towards ongoing efforts to develop a complete connectome of the human brain that can replicate human emotions and behavior. My hobbies include pretty much anything I can get my hands on, cooking, reading, and listening to music are my favorites.
+# - firstname: Akanksha
+#   lastname: Singh
+#   post: Secretary
+#   img: Akanksha.jpg
+#   github: 
+#   fb: 
+#   mail: 
+#   about: Heya! I'm a UG second year student in the CSE department. My interests lie in Natural language processing, psychology and reinforcement learning. I also love reading, eating and debating. If you've got some good books or food, would love to try them :p
 
-- firstname: Parth
-  lastname: Agrawal
-  post: Secretary 
-  img: Parth.png
-  github: 
-  fb: 
-  mail: 
-  about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
+# - firstname: Dhwanit
+#   lastname: Balwani
+#   post: Secretary
+#   img: Dhwanit.jpg
+#   github: dhwanit75
+#   fb: dhwanit.balwani
+#   mail: dhwanitb20@iitk.ac.in
+#   about: Hi! I am a second-year undergrad in the CHE department . I am interested in the application of Machine Learning and Deep Learning in various fields including Neural Imaging and Radiology . My hobbies include watching all kinds of sports but mainly football.
 
-- firstname: Rashmi
-  lastname: Sharma
-  post: Secretary
-  img: rashmi.jpg
-  github: rashmidotexe
-  fb: rashmidotexe
-  mail: rashmis20@iitk.ac.in
-  about: Hey there! I am an undergraduate sophomore in the Physics Department. My interests lie in Convolutional Neural Networks (and its recently emerging sister field Quantum Neural Networks) and Computational Cognitive Sciences. I also enjoy Museums and Art Galleries, Motorsports, and the Stars.
+# - firstname: Nakul
+#   lastname: Patel
+#   post: Secretary
+#   img: Nakul_patel.jpg
+#   github: 
+#   fb: 
+#   mail: 
+#   about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
 
-- firstname: Sahil
-  lastname: Bansal
-  post: Secretary
-  img: Sahil.jpg
-  github: sahilb2002
-  fb: profile.php?id=100007571763593
-  mail: sahilb20@iitk.ac.in
-  about: Hello!! I am an UG sophomore from CSE department. My interests include exploring Deep learning/ Machine Learning and Computer vision. My hobbies are reading novels (I am a huge fan of Harry Potter :) ), and watching Web series.
+# - firstname: Parth
+#   lastname: Agrawal
+#   post: Secretary 
+#   img: Parth.png
+#   github: 
+#   fb: 
+#   mail: 
+#   about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
 
-- firstname: Sarah
-  lastname: Kapoor
-  post: Secretary
-  img: Sarah.jpg
-  github: sarahkapoor06
-  fb: sarah.kapoor.798278
-  mail: sarah20@iitk.ac.in
-  about: Hi! I’m a second year student from the Chemical Department. I’m fascinated by the use of Machine Learning and Convolutional Neural Networks, and am particularly interested in their applications in fields such as Facial and Speech Emotion Recognition. I love reading books, and I’m also a travel freak and have explored several places.
+# - firstname: Rashmi
+#   lastname: Sharma
+#   post: Secretary
+#   img: rashmi.jpg
+#   github: rashmidotexe
+#   fb: rashmidotexe
+#   mail: rashmis20@iitk.ac.in
+#   about: Hey there! I am an undergraduate sophomore in the Physics Department. My interests lie in Convolutional Neural Networks (and its recently emerging sister field Quantum Neural Networks) and Computational Cognitive Sciences. I also enjoy Museums and Art Galleries, Motorsports, and the Stars.
 
-- firstname: Shashwat
-  lastname: Gupta
-  post: Secretary
-  img: Shashwat Gupta.jpg
-  github: 
-  fb: 
-  mail: 
-  about: This about was written by spooderman. Spooderman is mischievious, he eats children. report spooderman to vatican.
+# - firstname: Sahil
+#   lastname: Bansal
+#   post: Secretary
+#   img: Sahil.jpg
+#   github: sahilb2002
+#   fb: profile.php?id=100007571763593
+#   mail: sahilb20@iitk.ac.in
+#   about: Hello!! I am an UG sophomore from CSE department. My interests include exploring Deep learning/ Machine Learning and Computer vision. My hobbies are reading novels (I am a huge fan of Harry Potter :) ), and watching Web series.
 
-- firstname: Shubham
-  lastname: Kumar
-  post: Secretary
-  img: shubham.jpg
-  github: Kshubham20
-  fb: profile.php?id=100012516582601
-  mail: kshubham20@iitk.ac.in
-  about: Hello! I'm a sophomore from AE department. I'm interested in Machine Learning, Convolutional Neural Networks, robotics. I'm also interested in reading books and watching Web series. 
+# - firstname: Sarah
+#   lastname: Kapoor
+#   post: Secretary
+#   img: Sarah.jpg
+#   github: sarahkapoor06
+#   fb: sarah.kapoor.798278
+#   mail: sarah20@iitk.ac.in
+#   about: Hi! I’m a second year student from the Chemical Department. I’m fascinated by the use of Machine Learning and Convolutional Neural Networks, and am particularly interested in their applications in fields such as Facial and Speech Emotion Recognition. I love reading books, and I’m also a travel freak and have explored several places.
 
-- firstname: Siddhant
-  lastname: Singh
-  post: Secretary
-  img: Siddhant.jpg
-  github: siddhant7876
-  fb: Siddhant7876
-  mail: siddhss20@iitk.ac.in
-  about: Hello! I’m a sophomore from MTH department. I am interested in computer vision and applications of deep reinforcement learning in modelling the brain. Cricket and painting are some of my hobbies.
+# - firstname: Shubham
+#   lastname: Kumar
+#   post: Secretary
+#   img: shubham.jpg
+#   github: Kshubham20
+#   fb: profile.php?id=100012516582601
+#   mail: kshubham20@iitk.ac.in
+#   about: Hello! I'm a sophomore from AE department. I'm interested in Machine Learning, Convolutional Neural Networks, robotics. I'm also interested in reading books and watching Web series. 
 
-- firstname: Suyash
-  lastname: Mallik
-  post: Secretary
-  img: Suyash.jpg
-  github: 
-  fb: 
-  mail: 
-  about: Hi! I am a sophomore from the EE department. I’m interested in exploring neural simulation, imaging and the cognitive processes that drive our behaviour. My hobbies include reading books about anything under the sun, or listening to a very specific kind of indie rock. :P\
+# - firstname: Siddhant
+#   lastname: Singh
+#   post: Secretary
+#   img: Siddhant.jpg
+#   github: siddhant7876
+#   fb: Siddhant7876
+#   mail: siddhss20@iitk.ac.in
+#   about: Hello! I’m a sophomore from MTH department. I am interested in computer vision and applications of deep reinforcement learning in modelling the brain. Cricket and painting are some of my hobbies.
 
-- firstname: Tanush
-  lastname: Kumar
-  post: Secretary
-  img: Tanush.jpeg
-  github: RVP20
-  fb: profile.php?id=100010387815907
-  mail: tanushk20@iitk.ac.in
-  about: Hi! I’m a second year undergraduate student in the Mathematics department. My primary interests lie in the application of Machine Learning and Deep Learning in the domain of Cognitive Sciences and Psychology. Apart from that, I enjoy reading novels and watching football.
+# - firstname: Tanush
+#   lastname: Kumar
+#   post: Secretary
+#   img: Tanush.jpeg
+#   github: RVP20
+#   fb: profile.php?id=100010387815907
+#   mail: tanushk20@iitk.ac.in
+#   about: Hi! I’m a second year undergraduate student in the Mathematics department. My primary interests lie in the application of Machine Learning and Deep Learning in the domain of Cognitive Sciences and Psychology. Apart from that, I enjoy reading novels and watching football.
 
-- firstname: Tanushree
-  lastname: Jalewa
-  post: Secretary
-  img: tanushree.jpeg
-  github: TanushreeJalewa
-  fb: TanushreeJalewa
-  mail: tanushree20@iitk.ac.in
-  about: Hello!! I am a second year undergraduate student in MTH department. My interests lie in Convolutional Neural Networks, and Computer Vision. l like exploring new places so fond of travelling.
-
-- firstname: Saurabh
-  lastname: Patil
-  post: Secretary
-  img: Saurabh.jpg
-  github: berserkarray
-  fb: Saurabhpatil.illusion
-  mail: patilsn20@iitk.ac.in
-  about: hi, im saurabh (or spooderman) majoring in Physics. Within bcs my interest lies in neuroscience and Deep learning, i wakeup choose a dataset and try experimenting on it. Outside bcs im a weeb, motorhead, memer and huge consumer of hiphop(desi hiphop as well)
-   
+# - firstname: Tanushree
+#   lastname: Jalewa
+#   post: Secretary
+#   img: tanushree.jpeg
+#   github: TanushreeJalewa
+#   fb: TanushreeJalewa
+#   mail: tanushree20@iitk.ac.in
+#   about: Hello!! I am a second year undergraduate student in MTH department. My interests lie in Convolutional Neural Networks, and Computer Vision. l like exploring new places so fond of travelling.
 
 
 # - firstname: Aaryansh
