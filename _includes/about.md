@@ -17,4 +17,4 @@ Have a look at our <a href="/projects">ongoing</a> and <a href="/projects/comple
 
 <br><br>
 <h5>Talks/ Lectures</h5>
-We organize taks and sessions with people who are working in this similar area, this includes talks by professors, Post-Docs, PhDs, and any other experienced individual. We also conduct lectures and workshops to provide the necessary background to newbies.
+We organize talks and sessions with people who are working in this similar area, this includes talks by professors, Post-Docs, PhDs, and any other experienced individual. We also conduct lectures and workshops to provide the necessary background to newbies.
