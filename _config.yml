@@ -10,8 +10,8 @@ url: "https://bcs-iitk.github.io"
 plugins:
   - jekyll-pdf-embed
 
-markdown: kramdown
-highlighter: rouge
+markdown: "kramdown"
+highlighter: "rouge"
 
 social-accounts:
   facebook: "bcs.iitk"
