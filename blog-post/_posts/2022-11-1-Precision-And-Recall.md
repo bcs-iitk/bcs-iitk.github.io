@@ -3,7 +3,6 @@ layout: post
 title: Understanding Precision and Recall
 abstract: So you've built a machine learning model, trained it on a data and tested on another data... now what?... It is always a good practice to evaluate the quality of one’s work.
 ---
-Contributor: Pankajh Jhamtani, Shloak Mishra, Asjad
 
 <center><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Blog-P&R/1.jpg" style="width:80%"></center>
 
