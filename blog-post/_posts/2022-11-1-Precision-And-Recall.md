@@ -5,7 +5,7 @@ abstract: So you've built a machine learning model, trained it on a data and tes
 ---
 
 <!-- <center><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Blog-P&R/1.jpg" style="width:80%"></center> -->
-Contributors: Palak Mishra, Pankajh Jhamtani, Kumar Kanishk Singh, Shlok Mishra
+Contributors: Palak Mishra, Pankajh Jhamtani, Asjad Raza, Shlok Mishra
 
 <br>
 *Evaluation is creation: hear it, you creators! Evaluating is itself the most valuable treasure of all that we value. It is only through evaluation that value exists: and without evaluation the nut of existence would be hollow. Hear it, you creators!*
