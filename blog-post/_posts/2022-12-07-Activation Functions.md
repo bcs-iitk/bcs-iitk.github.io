@@ -1,6 +1,7 @@
 ```
 ```
 <h1 style="text-align: center;">Activation Functions</h1>
+
 <b><i>What are activation functions and why do we need them?</i></b>
 
 <p><b>Activation functions</b> define the output of the neurons for a set of inputs. In a broader sense, activation functions prevent linearity i.e. if we take a linear activation function, we end up with an output, which is a linear function irrespective of whether our data is linear or not linear.</p>
@@ -13,9 +14,12 @@
 <h3>Sigmoid Function:</h3>
 
 Sigmoid function is a smooth, differentiable function that introduces non-linearity to our model.
-It outputs results between 0 and 1 , and used in the output layers of the DL architectures and hence used for probability-based output, and has been applied successfully in binary classification problems, modeling logistic regression tasks as well as other neural network domains. Derivative of sigmoid function is given by σ(z)(1-σ(z))
+It outputs results between 0 and 1 , and used in the output layers of the DL architectures and hence used for probability-based output, and has been applied successfully in binary classification problems, modeling logistic regression tasks as well as other neural network domains. Derivative of sigmoid function is given by $\sigma(z)(1-\sigma(z))$
+
 <img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Activation Functions/Formula1.png" align="center">
-<p><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Activation Functions/blog2.webp" widht="300" height="250" align="right"><br>
+<p>
+<img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Activation Functions/blog2.webp" widht="300" height="250" align="right"><br>
+
 Sigmoid function is usually used in shallow networks because of problems like sharp damp gradients during backpropagation from hidden layers to the input layers. Sigmoid function saturates and kills the gradient, hence initializing the weights with values too big or too small can create problem. Other problems faced by sigmoid function are slow convergence, and non-zero centered output thereby causing the gradient updates to propagate in different directions.</p>
 <br>
 Functions like ReLu or tangent function were proposed to remedy some of these drawbacks.
@@ -24,9 +28,11 @@ Functions like ReLu or tangent function were proposed to remedy some of these dr
 
 The hyperbolic tangent function known as a tanh function, is a smooth and zero-centered function whose output lies between -1 to 1 .
 <img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Activation Functions/Formula2.png" align="center">
-<p><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Activation Functions/blog3.png" align="left"> $Tanh$ function is more preferred function compared to the sigmoid function as it gives better training performance for multi-layer neural networks. Tanh has a 0 centric function hence we can easily identify the values as either strongly positive, negative or neutral. It helps in centring the data and makes learning for the next layer much easier.</p> 
+<p><img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Activation Functions/blog3.png" align="left">  
 
-Derivative of tanh is given by g(z)=f'(z)=(tanhz)^2,hence tanh also faces the same problem of vanishing gradient descent.
+$Tanh$ function is more preferred function compared to the sigmoid function as it gives better training performance for multi-layer neural networks. $Tanh$ has a 0 centric function hence we can easily identify the values as either strongly positive, negative or neutral. It helps in centring the data and makes learning for the next layer much easier.</p> 
+
+Derivative of $tanh$ is given by $ g(z)=f'(z)=(\tanh{z})^2 $,hence tanh also faces the same problem of vanishing gradient descent.
 <p>Although both sigmoid and tanh face vanishing gradient problems, tanh is zero centric, and the gradients are not restricted to move in certain directions. Therefore, in practice, tanh nonlinearity is always preferred to sigmoid nonlinearity.The tanh functions have been used mostly in recurrent neural networks for natural language processing and speech recognition tasks.</p> 
 
 <h3>Rectified linear Activation Function:</h3>
@@ -53,8 +59,10 @@ One of the problem of ReLU is  the one of "dead neurons", which occurs when the 
 <p>Softmax is an activation function that scales numbers/logits into probabilities. The output of a Softmax is a vector (say v) with probabilities of each possible outcome. The probabilities in vector v sums to one for all possible outcomes or classes.</p> 
 
 <p>Mathematically, Softmax is defined as, 
+
 <img src="{{ site.url }}{{ site.baseurl }}/blog-post/img/Activation Functions/Formula5.png" align="center">
-the numerator is a standard exponential function applied on z_i the result is a small value(close to 0 but never 0) if z_i<0 and a large z_i is large. A normalization term, summation of "e^{z_j}", ensures the values of output vector sums to 1 for i-th class and each of them is in the range 0 and 1 which makes up a valid probability distribution.</p>
+
+the numerator is a standard exponential function applied on $z_i$ the result is a small value(close to 0 but never 0) if $z_i$<0 and a large $z_i$ is large. A normalization term, summation of $e^{z_j}$, ensures the values of output vector sums to 1 for i-th class and each of them is in the range 0 and 1 which makes up a valid probability distribution.</p>
 
 <p>Or more physically it can ve observed that Softmax function calculates the probabilities distribution of the event over 'n' different events. In general way of saying, this function will calculate the probabilities of each target class over all possible target classes. Later the calculated probabilities will be helpful for determining the target class for the given inputs.</p>  
 
