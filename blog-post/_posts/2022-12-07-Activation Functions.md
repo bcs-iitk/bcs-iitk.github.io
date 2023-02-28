@@ -1,5 +1,8 @@
-```
-```
+---
+layout: post
+title: Activation Functions
+abstract: Activation functions are a critical component of a neural network and, thus, are fundamental building blocks for deep learning. They also serve a very important purpose of shaping the behavior of a deep learning model by introducing non-linearity to it.
+---
 <h1 style="text-align: center;">Activation Functions</h1>
 
 <b><i>What are activation functions and why do we need them?</i></b>
