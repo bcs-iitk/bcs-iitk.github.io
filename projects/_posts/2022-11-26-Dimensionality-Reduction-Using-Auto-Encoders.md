@@ -5,6 +5,6 @@ abstract: The problem with high dimensional data is that it means high computati
 In this project, we shall be comparing two methods of dimensionality reduction using principal component analysis (PCA) and auto encoders by applying them over a variety of datasets.
 stat: completed
 mentor: Sourabh Patil
-mentee: Kumar Kanishk Singh
+members: Kumar Kanishk Singh
 ---
 Using RAVDESS dataset which contains  around 1500 audio file inputs from 24 different actors (12 male and 12 female ) who recorded short audios in 8 different emotions, we will train a NLP- based model which will be able to detect among the 8 basic emotions as well as the gender of the speaker i.e. Male voice or Female voice.  After training we can deploy this model for predicting with live voices.<br>
