@@ -13,7 +13,7 @@ This workshop was aimed at introducing the participants to CNN (Convulation Neur
  The mentioned task was edited accordingly by [Brain and Cognitive Society, IIT Kanpur](https://bcs-iitk.github.io/).
 
 
- The link for the "Hand Gesture Detection Task"[click here](https://colab.research.google.com/drive/1jAw7GHKLRGfK98kjQBr8XUQ7ItHClvDw?usp=sharing)
+ The link for the "Hand Gesture Detection Task" [click here](https://colab.research.google.com/drive/1jAw7GHKLRGfK98kjQBr8XUQ7ItHClvDw?usp=sharing)
 
  
 
