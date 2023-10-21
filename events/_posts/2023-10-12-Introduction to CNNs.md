@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Introduction to CNNs
-abstract: This workshop was aimed at introducing the participants to CNN (Convulation Neural Network) and the basic layout related to it with correspondance to architecture models.
+abstract: This workshop was aimed at introducing the participants to CNN (Convolution Neural Network) and the basic layout related to it with correspondence to architecture models.
 ---
-This workshop was aimed at introducing the participants to CNN (Convulation Neural Network) and the basic layout related to it with correspondance to architecture models. It comprised of a task and discussion over a range of topics, including:
+This workshop was aimed at introducing the participants to CNN (Convolution Neural Network) and the basic layout related to it with correspondence to architecture models. It comprised of a task and discussion over a range of topics, including:
 * Basic Python
 * Basic Convolution Operation
 * Activation Function and Convolution layering
@@ -13,7 +13,7 @@ This workshop was aimed at introducing the participants to CNN (Convulation Neur
  The mentioned task was edited accordingly by [Brain and Cognitive Society, IIT Kanpur](https://bcs-iitk.github.io/).
 
 
- The link for the "Hand Gesture Detection Task" [click here](https://colab.research.google.com/drive/1jAw7GHKLRGfK98kjQBr8XUQ7ItHClvDw?usp=sharing)
+ The Google Colab  link for the "Hand Gesture Detection Task" [click here](https://colab.research.google.com/drive/1jAw7GHKLRGfK98kjQBr8XUQ7ItHClvDw?usp=sharing)
 
  
 
