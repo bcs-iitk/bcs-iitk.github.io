@@ -1,0 +1,64 @@
+---
+layout: page
+title: Projects
+---
+<div class="row justify-content-md-center">
+    <div class="col-xs-12 col-md-12 ">
+        <div class="" style="align: center">
+            <center>
+                <h1 class="post-title display-5">Projects</h1>
+            </center><br>
+            <div class="project bg-light">
+                <b>Ongoing Projects:</b> Those projects on which we are currently working.<br>
+                <b>Completed Projects:</b> Projects which we have completed so far. <br>
+                <b>Projects Vacancies:</b> If you are an IITK student and interested in taking up any project under BCS
+                @IITK do check this option for available openings for projects. <br>
+                <b>BYOP:</b> "Bring Your Own Projects". If you are interested in proposing your own project to carry it
+                under BCS @IITK. <br>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12 col-md-8 order-1 order-md-0">
+        {% for post in site.categories.projects %}
+        {% if post.stat == "ongoing" %}
+        <div class="project bg-light">
+            <div class="project-header border-bottom">
+                <h2 class="project-title">{{ post.title }}</h2>
+                <p class="text-secondary"><small>{{ post.date | date: "%B %-d, %Y" }}</small></p>
+            </div>
+            <div class="project-content lead">
+                <p>{{ post.abstract }}</p>
+            </div>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="project-footer">
+                <button type="button" class="btn btn-outline-dark">Read More</button>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="col-xs-12 col-md-4  order-0 order-md-1 projects-vacancies">
+        <a href="." class="nav-link projects-type-link" style="margin-bottom: 1rem">
+            <button type="button" class="btn btn-outline-secondary"
+                style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">Ongoing Projects</button>
+        </a>
+        <a href="completed" class="nav-link projects-type-link" style="margin-bottom: 1rem">
+            <button type="button" class="btn btn-outline-secondary active"
+                style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">Completed Projects</button>
+        </a>
+        <a href="vacancies" class="nav-link projects-type-link" style="margin-bottom: 1rem">
+            <button type="button" class="btn btn-outline-secondary"
+                style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">Project Vacancies</button>
+        </a>
+
+        <a href="https://forms.gle/nMVj2NWh2g4js39b9" target="_blank" class="nav-link projects-type-link"
+            style="margin-bottom: 1rem">
+            <button type="button" class="btn btn-outline-secondary"
+                style="width: 100%; padding-top: 1rem; padding-bottom: 1rem">BYOP</button>
+        </a>
+    </div>
+
+</div>
