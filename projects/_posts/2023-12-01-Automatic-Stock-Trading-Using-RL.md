@@ -1,9 +1,9 @@
 ---
-layout: project-ongoing
+layout: project-completed
 title: Automatic Stock Trading using RL
 abstract: Utilized Reinforcement Learning algorithms to automate stock trading decisions, optimizing portfolio performance.
 stat: ongoing
 mentor: Aniruddh Pramod
 members: Debarpita Dash
 ---
-<br>
+**Github:** <a href="https://github.com/DebDDash/AutomaticStockTrading" target="_blank">Link</a> <br>
