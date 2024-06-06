@@ -5,11 +5,11 @@ title: People
 
 <div class="row">
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem">Our Team</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; font-size: 1.8rem;">A TEAM | A FAMILY</h1></center>
   </div>
 
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem">Leaders</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Meet Our Leaders!</h1></center>
   </div>
 
   <div class="card-deck" style="padding: 0.5rem; justify-content: center;">
@@ -17,7 +17,7 @@ title: People
   {% if member.post=="Leader" %}
   <div class="col-md-4" style="padding: 0.5rem">
     <div class="card">
-      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" alt="Card image cap">
+      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/current/{{member.img}}" alt="Card image cap">
       <div class="card-body">
         <center>
         <h6 class="card-title">{{member.firstname}} {{member.lastname}} <br> {{member.post}}</h6>
@@ -36,7 +36,7 @@ title: People
   </div>
 
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem">Secretary</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Meet Our Secretaries!</h1></center>
   </div>
 
   <!-- No secies yet -->
@@ -46,7 +46,7 @@ title: People
     {% if member.post=="Secretary" %}
     <div class="col-md-4" style="padding: 0.5rem">
       <div class="card">
-        <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" alt="Card image cap">
+        <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/current/{{member.img}}" alt="Card image cap">
         <div class="card-body">
           <center>
           <h6 class="card-title">{{member.firstname}} {{member.lastname}} <br> {{member.post}}</h6>
@@ -77,7 +77,7 @@ title: People
         </button>
       </div>
       <div class="modal-body" style="text-align: justify">
-        <center><img class="portrait-img" src="{{site.url}}{{ site.baseurl }}/assets/img/team/{{member.img}}" style="margin-bottom: 1.5rem"></center>
+        <center><img class="portrait-img" src="{{site.url}}{{ site.baseurl }}/assets/img/team/current/{{member.img}}" style="margin-bottom: 1.5rem"></center>
         {{member.about}}
       </div>
     </div>
@@ -120,7 +120,7 @@ title: People
   {% endfor %}
 
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem">Ex-Leaders</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Our Ex-Leaders!</h1></center>
   </div>
 
   <div class="card-deck" style="padding: 0.5rem; justify-content: center;">
@@ -128,7 +128,7 @@ title: People
   {% if member.post=="Ex-Leader" %}
   <div class="col-md-4" style="padding: 0.5rem">
     <div class="card">
-      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/2019-2020/{{member.img}}" alt="Card image cap">
+      <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/current/{{member.img}}" alt="Card image cap">
       <div class="card-body">
         <center>
         <h6 class="card-title">{{member.firstname}} {{member.lastname}} <br> {{member.post}}</h6>
@@ -166,7 +166,7 @@ title: People
 
   
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem">Founder</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Our Esteemed Founder!</h1></center>
   </div>
   <div class="card-deck" style="padding: 0.5rem; justify-content: center;">
     {% for tenure in site.data.alums %}
