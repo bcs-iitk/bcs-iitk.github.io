@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brain and Cognitive Society Online Workshop Jan '21
+title: Brain and Cognitive Science Club Online Workshop Jan '21
 abstract: This workshop was aimed at introducing the participants to Machine Learning and different aspects of related to it with correspondance to Cognitive models.
 ---
 This workshop was aimed at introducing the participants to Machine Learning and different aspects of related to it with correspondance to Cognitive models. It comprised of assignments in the form of notebooks over a range of topics, including:

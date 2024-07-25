@@ -3,7 +3,7 @@
 
 - firstname: Debarpita
   lastname: Dash
-  post: Leader
+  post: Coordinator
   img: debarpita.jpg
   github: DebDDash
   fb: 
@@ -12,7 +12,7 @@
 
 - firstname: Manasvi
   lastname: Nidugala
-  post: Leader
+  post: Coordinator
   img: manasvi.jpg
   github: roses-and-thorns
   fb: 
@@ -21,7 +21,7 @@
 
 - firstname: Sagar
   lastname: Arora
-  post: Leader
+  post: Coordinator
   img: sagar.jpg
   github: qu-bit1
   fb: 
@@ -30,7 +30,7 @@
 
 - firstname: Udbhav
   lastname: Aggarwal
-  post: Leader
+  post: Coordinator
   img: udbhav.jpg
   github: udbhav-44
   fb: 
@@ -77,7 +77,7 @@
   about : Hello people i am swarup from the mse department . You will find me either in the music room where i write music or in my room where i write code and occasionally at lalaji canteen.  My interests range from giving vision to your machines to a bit of brain stuff and a lot of indian fusion music. Dm me for cooking recipes,music covers or competitions.
 
 - firstname : Akshay
-  lastname : Reddy Kamatam
+  lastname : Reddy #Kamatam
   post : Secretary
   img : akshay.jpg
   github : sorcererak
@@ -95,7 +95,7 @@
   about : Hi! I'm Anika. I'm from ES department :) I love writing stuff, listening to music (good music) and playing video games (yes I have a nintendo) I also like learning cool things about the brain!
 
 - firstname : Aravind
-  lastname : Sarath Chandran
+  lastname : Sarath #Chandran
   post : Secretary
   img : aravind.jpg
   github : AravindSarath
@@ -121,8 +121,8 @@
   mail : divip23@iitk.ac.in
   about : Heyy, I'm Divi. I'm from the CSE department. I find brain stuff really cool :) I'm exploring exciting things in GenAI like RAGs and GNNs. 
 
-- firstname : Gaurav
-  lastname : Kumar Rampuria
+- firstname : Gaurav #Kumar
+  lastname : Rampuria
   post : Secretary
   img : gaurav.jpg
   github : Gaurav142005
@@ -233,7 +233,7 @@
 
 - firstname: Aniruddh 
   lastname: Pramod
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: Aniruddh.jpg
   github: atryt0ne/
   fb: profile.php?id=100073246155953
@@ -242,16 +242,16 @@
 
 - firstname: Priyanshu
   lastname: Tiwari
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: Priyanshu.jpg
   github: PtIITK
   fb: priyanshutiwari.0312
   mail: priyanshut21@iitk.ac.in
   about: Hi! I'm Priyanshu, a third year undergrad studying Materials Science and Engineering. I am interested in neuroscience, cognitive psychology, and behaviour, but I am always willing to try new things. In my spare time, I enjoy reading blogs and playing tennis.
 
-- firstname: Roy Shivam Ram
+- firstname: Roy #Shivam Ram
   lastname: Shreshtth
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: Roy.jpg
   github: Royshivam18
   fb: people/Shivam-Roy/100075156648451/
@@ -260,7 +260,7 @@
 
 - firstname: Shlok
   lastname: Mishra
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: Shlok.jpg
   github: shlokmishra
   fb: shlokmishra08/
@@ -269,7 +269,7 @@
 
 - firstname: Saurabh
   lastname: Patil
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: Saurabh.jpg
   github: berserkarray
   fb: Saurabhpatil.illusion
@@ -278,7 +278,7 @@
    
 - firstname: Shashwat
   lastname: Gupta
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: Shashwat Gupta.jpg
   github: ShashwatGupta2001/
   fb: ShashwatGupta2001
@@ -287,7 +287,7 @@
 
 - firstname: Suyash
   lastname: Mallik
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: Suyash.jpg
   github: 
   fb: 
@@ -296,7 +296,7 @@
 
 - firstname: Shivanshu
   lastname: Tyagi
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: shivanshu.jpg
   github: spazewalker
   fb: shiv.2113
@@ -306,7 +306,7 @@
 
 - firstname: Mohit
   lastname: Kulkarni
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: mohit.jpg
   github: m2kulkarni
   fb: mohit.kulkarni.94695
@@ -315,7 +315,7 @@
 
 - firstname: Yash
   lastname: Baheti
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: yash.jpg
   github: yashbth
   fb: yash.baheti.102
@@ -324,7 +324,7 @@
 
 - firstname: Ishika
   lastname: Singh
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: ishika.jpg
   github: ishikasingh
   fb: ishika.singh.3323
@@ -333,7 +333,7 @@
 
 - firstname: Avisha
   lastname: Gaur
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: avisha.jpg
   fb: avisha.gaur.04
   mail: avisha@iitk.ac.in
@@ -341,7 +341,7 @@
 
 - firstname: Yatin
   lastname: Azad
-  post: Ex-Leader
+  post: Ex-Coordinator
   img: yatin.jpg
   fb: yatin.azad.7
   mail: yatinaz@iitk.ac.in

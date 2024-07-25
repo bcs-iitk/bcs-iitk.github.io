@@ -9,12 +9,12 @@ title: People
   </div>
 
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Meet Our Leaders!</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; font-size: 3rem;">Meet Our Coordinators!</h1></center>
   </div>
 
   <div class="card-deck" style="padding: 0.5rem; justify-content: center;">
   {% for member in site.data.members %}
-  {% if member.post=="Leader" %}
+  {% if member.post=="Coordinator" %}
   <div class="col-md-4" style="padding: 0.5rem">
     <div class="card">
       <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/current/{{member.img}}" alt="Card image cap">
@@ -36,7 +36,7 @@ title: People
   </div>
 
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Meet Our Secretaries!</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; font-size: 3rem;">Meet Our Secretaries!</h1></center>
   </div>
 
   <!-- No secies yet -->
@@ -120,12 +120,12 @@ title: People
   {% endfor %}
 
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Our Ex-Leaders!</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; font-size: 3rem;">Our Ex-Coordinators!</h1></center>
   </div>
 
   <div class="card-deck" style="padding: 0.5rem; justify-content: center;">
   {% for member in site.data.members %}
-  {% if member.post=="Ex-Leader" %}
+  {% if member.post=="Ex-Coordinator" %}
   <div class="col-md-4" style="padding: 0.5rem">
     <div class="card">
       <img class="card-img-top" src="{{site.url}}{{ site.baseurl }}/assets/img/team/current/{{member.img}}" alt="Card image cap">
@@ -166,7 +166,7 @@ title: People
 
   
   <div class="col-xs-12 col-md-12" style="padding: 0.5rem">
-    <center><h1 class="post-title display-5" style="padding: 1rem; color: #ff004f; font-size: 3rem;">Our Esteemed Founder!</h1></center>
+    <center><h1 class="post-title display-5" style="padding: 1rem; font-size: 3rem;">Our Esteemed Founder!</h1></center>
   </div>
   <div class="card-deck" style="padding: 0.5rem; justify-content: center;">
     {% for tenure in site.data.alums %}
