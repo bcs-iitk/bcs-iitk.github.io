@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brain and Cognitive Society Online Workshop Apr '20
+title: Brain and Cognitive Science Club Online Workshop Apr '20
 abstract: The goal of the workshop was to introduce the basics of different technical skills needed for studying brain science and to reverse engineer human brain/intelligence to create more general and intelligent AI's
 ---
 The goal of the workshop was to introduce the basics of different technical skills needed for studying brain science and to reverse engineer human brain/intelligence to create more general and intelligent AI's. It covered a range of topics, including:
