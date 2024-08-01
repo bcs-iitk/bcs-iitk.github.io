@@ -61,6 +61,13 @@
           <a class="nav-link" href="{{ site.url }}/gallery">Gallery</a>
         {% endif %}
       </li>
+      <li class="nav-item">
+        {% if page.title == "Resources"%}
+          <a class="nav-link active" href="{{ site.url }}/resources">Resources</a>
+        {% else %}
+          <a class="nav-link" href="{{ site.url }}/resources">Resources</a>
+        {% endif %}
+      </li>
     </ul>
 
     <!-- <a class="nav-link" href="{{ site.url }}/team">Contact</a> -->
